@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "9.09%",
-    "uptimeDay": "9.09%",
-    "uptimeWeek": "9.09%",
-    "uptimeMonth": "9.09%",
-    "uptimeYear": "9.09%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3058,
     "timeDay": 3058,
     "timeWeek": 3058,
     "timeMonth": 3058,
     "timeYear": 3058,
-    "dailyMinutesDown": {
-      "2020-12-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bonnefanten",
