@@ -30,6 +30,10 @@ sites:
     url: https://www.markiezenhof.nl
   - name: Teylers Museum
     url: https://www.teylersmuseum.nl
+  - name: Porseleinplaats
+    url: http://www.porseleinplaats.nl
+  - name: DEV
+    url: https://dev.intk.com
 
 status-website:
   baseUrl: /intk-upptime
