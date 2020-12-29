@@ -3,7 +3,33 @@ repo: intk-upptime # Your Github repository name
 
 sites:
   - name: Centraal Museum
-    url: https://www.centraalmusuem.nl
+    url: https://www.centraalmuseum.nl
+  - name: Bonnefanten
+    url: https://www.bonnefanten.nl
+  - name: Het Park
+    url: https://www.hetpark.nl
+  - name: Historisch Museum Den Briel
+    url: https://www.historischmuseumdenbriel.nl
+  - name: Rietveld Schröderhuis
+    url: https://www.rietveldschroderhuis.nl
+  - name: Cuypershuis
+    url: https://www.cuypershuis.nl
+  - name: Historiehuis
+    url: https://www.historiehuis.nl
+  - name: Archief Roermond
+    url: https://www.archiefroermond.nl
+  - name: Veenkoloniaal Museum
+    url: https://www.veenkoloniaalmuseum.nl
+  - name: Kunsthal KAdE
+    url: https://www.kunsthalkade.nl
+  - name: Mondriaanhuis
+    url: https://www.mondriaanhuis.nl
+  - name: Zeeuws Museum
+    url: https://www.zeeuwsmuseum.nl
+  - name: Het Markiezenhof
+    url: https://www.markiezenhof.nl
+  - name: Teylers Museum
+    url: https://www.teylersmuseum.nl
 
 status-website:
   baseUrl: /intk-upptime
