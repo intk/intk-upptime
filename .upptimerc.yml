@@ -4,7 +4,7 @@ sites:
   - name: Centraal Museum
     url: https://www.centraalmuseum.nl
   - name: Bonnefanten
-    url: https://www.bonefanten.nl
+    url: https://www.bonnefanten.nl
   - name: Het Park
     url: https://www.hetpark.nl
   - name: Historisch Museum Den Briel
@@ -33,8 +33,6 @@ sites:
     url: http://www.porseleinplaats.nl
   - name: INTK development server
     url: https://dev.intk.com
-  - name: Goncalves
-    url: https://www.goncalves.me
 
 user-agent: andreesg
 
