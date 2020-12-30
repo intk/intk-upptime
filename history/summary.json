@@ -278,19 +278,19 @@
     "url": "https://dev.intk.com",
     "icon": "https://favicons.githubusercontent.com/dev.intk.com",
     "slug": "intk-development-server",
-    "status": "down",
-    "uptime": "81.46%",
-    "uptimeDay": "81.46%",
-    "uptimeWeek": "81.46%",
-    "uptimeMonth": "81.46%",
-    "uptimeYear": "81.46%",
-    "time": 658,
-    "timeDay": 658,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "78.21%",
+    "uptimeDay": "78.21%",
+    "uptimeWeek": "78.21%",
+    "uptimeMonth": "78.21%",
+    "uptimeYear": "78.21%",
+    "time": 639,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2020-12-30": 6
+      "2020-12-30": 8
     }
   }
 ]
