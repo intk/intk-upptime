@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cenmtraalmuseum.nl",
     "slug": "centraal-museum",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3405,
     "timeDay": 3405,
     "timeWeek": 3405,
     "timeMonth": 3405,
     "timeYear": 3405,
     "dailyMinutesDown": {
-      "2020-12-30": 0
+      "2020-12-30": 1
     }
   },
   {
