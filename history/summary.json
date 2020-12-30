@@ -274,17 +274,17 @@
     "url": "https://dev.intk.com",
     "icon": "https://favicons.githubusercontent.com/dev.intk.com",
     "slug": "dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 542,
-    "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   }
 ]
