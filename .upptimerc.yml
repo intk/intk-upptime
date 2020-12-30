@@ -35,6 +35,15 @@ sites:
   - name: DEV
     url: https://dev.intk.com
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 status-website:
   baseUrl: /intk-upptime
   logoUrl: https://old.intk.com/logo.png
