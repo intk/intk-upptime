@@ -2,9 +2,9 @@ owner: andreesg # Your GitHub username
 repo: intk-upptime # Your Github repository name
 sites:
   - name: Centraal Museum
-    url: https://www.cenmtraalmuseum.nl
+    url: https://www.centraalmuseum.nl
   - name: Bonnefanten
-    url: https://www.bonnefanten.nl
+    url: https://www.bonefanten.nl
   - name: Het Park
     url: https://www.hetpark.nl
   - name: Historisch Museum Den Briel
@@ -31,9 +31,13 @@ sites:
     url: https://www.teylersmuseum.nl
   - name: Porseleinplaats
     url: http://www.porseleinplaats.nl
-  - name: DEV
+  - name: INTK development server
     url: https://dev.intk.com
+  - name: Goncalves
+    url: https://www.goncalves.me
+
 user-agent: andreesg
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -42,6 +46,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
 status-website:
   baseUrl: /intk-upptime
   logoUrl: https://old.intk.com/logo.png
