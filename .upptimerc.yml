@@ -29,6 +29,8 @@ sites:
     url: https://www.markiezenhof.nl
   - name: Teylers Museum
     url: https://www.teylersmuseum.nl
+  - name: INTK
+    url: https://www.intk.com/en
   - name: Porseleinplaats
     url: http://www.porseleinplaats.nl
   - name: INTK development server
