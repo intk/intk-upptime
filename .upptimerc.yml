@@ -46,7 +46,7 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 status-website:
-  baseUrl: /intk-upptime
+  cname: status.intk.com
   logoUrl: https://old.intk.com/logo.png
   name: INTK
   introTitle: "Monitor the uptime of INTK projects"
