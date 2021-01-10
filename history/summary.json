@@ -98,9 +98,9 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,16 +109,18 @@
     "timeWeek": 1015,
     "timeMonth": 1006,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "Historiehuis",
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,16 +129,18 @@
     "timeWeek": 1724,
     "timeMonth": 1668,
     "timeYear": 1668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +149,9 @@
     "timeWeek": 2072,
     "timeMonth": 1991,
     "timeYear": 1991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   },
   {
     "name": "Veenkoloniaal Museum",
