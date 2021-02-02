@@ -248,9 +248,9 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -259,7 +259,9 @@
     "timeWeek": 872,
     "timeMonth": 944,
     "timeYear": 1077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   },
   {
     "name": "INTK",
