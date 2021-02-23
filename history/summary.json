@@ -194,19 +194,19 @@
     "url": "https://www.mondriaanhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.mondriaanhuis.nl",
     "slug": "mondriaanhuis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 782,
-    "timeWeek": 942,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 964,
+    "timeDay": 824,
+    "timeWeek": 947,
     "timeMonth": 987,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 36
     }
   },
   {
