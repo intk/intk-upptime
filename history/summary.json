@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4637,
-    "timeDay": 3454,
-    "timeWeek": 3488,
-    "timeMonth": 5509,
-    "timeYear": 4637,
+    "time": 4616,
+    "timeDay": 3178,
+    "timeWeek": 3468,
+    "timeMonth": 5513,
+    "timeYear": 4616,
     "dailyMinutesDown": {
       "2020-12-30": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 929,
-    "timeDay": 867,
-    "timeWeek": 992,
-    "timeMonth": 978,
-    "timeYear": 929,
+    "time": 930,
+    "timeDay": 866,
+    "timeWeek": 954,
+    "timeMonth": 983,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2020-12-30": 6
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 815,
-    "timeWeek": 954,
-    "timeMonth": 965,
-    "timeYear": 919,
+    "time": 920,
+    "timeDay": 757,
+    "timeWeek": 927,
+    "timeMonth": 970,
+    "timeYear": 920,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1017,
-    "timeWeek": 1135,
-    "timeMonth": 1169,
-    "timeYear": 1127,
+    "time": 1129,
+    "timeDay": 1011,
+    "timeWeek": 1118,
+    "timeMonth": 1179,
+    "timeYear": 1129,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1223,
-    "timeDay": 980,
-    "timeWeek": 1162,
-    "timeMonth": 1360,
+    "timeDay": 1027,
+    "timeWeek": 1120,
+    "timeMonth": 1369,
     "timeYear": 1223,
     "dailyMinutesDown": {}
   },
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1034,
-    "timeDay": 912,
-    "timeWeek": 1072,
-    "timeMonth": 1077,
-    "timeYear": 1034,
+    "time": 1035,
+    "timeDay": 941,
+    "timeWeek": 1037,
+    "timeMonth": 1088,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1787,
-    "timeDay": 1676,
-    "timeWeek": 1850,
-    "timeMonth": 1878,
-    "timeYear": 1787,
+    "time": 1788,
+    "timeDay": 1706,
+    "timeWeek": 1818,
+    "timeMonth": 1885,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2101,
-    "timeDay": 2122,
-    "timeWeek": 2211,
-    "timeMonth": 2194,
-    "timeYear": 2101,
+    "time": 2102,
+    "timeDay": 2034,
+    "timeWeek": 2168,
+    "timeMonth": 2205,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -164,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 3484,
-    "timeWeek": 2040,
-    "timeMonth": 1470,
-    "timeYear": 1315,
+    "time": 1316,
+    "timeDay": 1193,
+    "timeWeek": 2014,
+    "timeMonth": 1481,
+    "timeYear": 1316,
     "dailyMinutesDown": {}
   },
   {
@@ -182,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 747,
-    "timeWeek": 920,
-    "timeMonth": 876,
-    "timeYear": 839,
+    "time": 840,
+    "timeDay": 774,
+    "timeWeek": 884,
+    "timeMonth": 883,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   },
   {
@@ -195,19 +195,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mondriaanhuis.nl",
     "slug": "mondriaanhuis",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 964,
-    "timeDay": 824,
-    "timeWeek": 947,
-    "timeMonth": 987,
+    "timeDay": 790,
+    "timeWeek": 927,
+    "timeMonth": 992,
     "timeYear": 964,
-    "dailyMinutesDown": {
-      "2021-02-23": 36
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeeuws Museum",
@@ -220,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 677,
-    "timeWeek": 803,
-    "timeMonth": 795,
-    "timeYear": 759,
+    "time": 760,
+    "timeDay": 680,
+    "timeWeek": 779,
+    "timeMonth": 803,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -239,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 782,
-    "timeWeek": 851,
-    "timeMonth": 861,
+    "timeDay": 677,
+    "timeWeek": 767,
+    "timeMonth": 855,
     "timeYear": 820,
     "dailyMinutesDown": {}
   },
@@ -256,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 1476,
-    "timeDay": 2304,
-    "timeWeek": 1389,
-    "timeMonth": 1794,
-    "timeYear": 1476,
+    "time": 1467,
+    "timeDay": 788,
+    "timeWeek": 1356,
+    "timeMonth": 1800,
+    "timeYear": 1467,
     "dailyMinutesDown": {
       "2021-02-02": 38
     }
@@ -276,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 844,
-    "timeWeek": 969,
-    "timeMonth": 1038,
-    "timeYear": 1017,
+    "time": 1020,
+    "timeDay": 784,
+    "timeWeek": 959,
+    "timeMonth": 1047,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   },
   {
@@ -295,8 +293,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 490,
-    "timeWeek": 609,
+    "timeDay": 489,
+    "timeWeek": 600,
     "timeMonth": 595,
     "timeYear": 588,
     "dailyMinutesDown": {}
@@ -312,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 631,
-    "timeDay": 525,
-    "timeWeek": 631,
-    "timeMonth": 639,
-    "timeYear": 631,
+    "time": 632,
+    "timeDay": 576,
+    "timeWeek": 612,
+    "timeMonth": 644,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2020-12-30": 6
     }
