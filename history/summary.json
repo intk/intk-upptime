@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 4026,
     "timeDay": 1329,
-    "timeWeek": 2703,
-    "timeMonth": 2687,
+    "timeWeek": 2607,
+    "timeMonth": 2679,
     "timeYear": 4026,
     "dailyMinutesDown": {
       "2020-12-30": 7
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 942,
     "timeDay": 1033,
-    "timeWeek": 1202,
-    "timeMonth": 971,
+    "timeWeek": 1275,
+    "timeMonth": 980,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2020-12-30": 6
@@ -52,8 +52,8 @@
     "uptimeYear": "100.00%",
     "time": 946,
     "timeDay": 838,
-    "timeWeek": 1159,
-    "timeMonth": 1000,
+    "timeWeek": 1178,
+    "timeMonth": 1003,
     "timeYear": 946,
     "dailyMinutesDown": {}
   },
@@ -70,8 +70,8 @@
     "uptimeYear": "100.00%",
     "time": 1106,
     "timeDay": 1195,
-    "timeWeek": 1282,
-    "timeMonth": 1055,
+    "timeWeek": 1340,
+    "timeMonth": 1063,
     "timeYear": 1106,
     "dailyMinutesDown": {}
   },
@@ -88,8 +88,8 @@
     "uptimeYear": "100.00%",
     "time": 1174,
     "timeDay": 1250,
-    "timeWeek": 1480,
-    "timeMonth": 1075,
+    "timeWeek": 1565,
+    "timeMonth": 1082,
     "timeYear": 1174,
     "dailyMinutesDown": {}
   },
@@ -106,8 +106,8 @@
     "uptimeYear": "99.91%",
     "time": 1056,
     "timeDay": 1157,
-    "timeWeek": 1363,
-    "timeMonth": 1103,
+    "timeWeek": 1445,
+    "timeMonth": 1110,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2021-01-10": 110
@@ -126,8 +126,8 @@
     "uptimeYear": "99.91%",
     "time": 1787,
     "timeDay": 1853,
-    "timeWeek": 2066,
-    "timeMonth": 1788,
+    "timeWeek": 2145,
+    "timeMonth": 1796,
     "timeYear": 1787,
     "dailyMinutesDown": {
       "2021-01-10": 110
@@ -146,8 +146,8 @@
     "uptimeYear": "99.91%",
     "time": 2161,
     "timeDay": 2193,
-    "timeWeek": 2319,
-    "timeMonth": 2306,
+    "timeWeek": 2428,
+    "timeMonth": 2322,
     "timeYear": 2161,
     "dailyMinutesDown": {
       "2021-01-10": 110
@@ -158,17 +158,17 @@
     "url": "https://www.veenkoloniaalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.veenkoloniaalmuseum.nl",
     "slug": "veenkoloniaal-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 1514,
-    "timeWeek": 1534,
-    "timeMonth": 1234,
-    "timeYear": 1288,
+    "time": 1291,
+    "timeDay": 1532,
+    "timeWeek": 1589,
+    "timeMonth": 1249,
+    "timeYear": 1291,
     "dailyMinutesDown": {}
   },
   {
@@ -184,8 +184,8 @@
     "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 897,
-    "timeWeek": 1083,
-    "timeMonth": 839,
+    "timeWeek": 1140,
+    "timeMonth": 841,
     "timeYear": 842,
     "dailyMinutesDown": {}
   },
@@ -202,8 +202,8 @@
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 1028,
-    "timeWeek": 1171,
-    "timeMonth": 966,
+    "timeWeek": 1222,
+    "timeMonth": 969,
     "timeYear": 965,
     "dailyMinutesDown": {}
   },
@@ -220,8 +220,8 @@
     "uptimeYear": "100.00%",
     "time": 749,
     "timeDay": 840,
-    "timeWeek": 957,
-    "timeMonth": 723,
+    "timeWeek": 1017,
+    "timeMonth": 728,
     "timeYear": 749,
     "dailyMinutesDown": {}
   },
@@ -238,8 +238,8 @@
     "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 860,
-    "timeWeek": 929,
-    "timeMonth": 709,
+    "timeWeek": 987,
+    "timeMonth": 712,
     "timeYear": 786,
     "dailyMinutesDown": {}
   },
@@ -256,8 +256,8 @@
     "uptimeYear": "99.97%",
     "time": 1290,
     "timeDay": 885,
-    "timeWeek": 1110,
-    "timeMonth": 924,
+    "timeWeek": 1174,
+    "timeMonth": 934,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2021-02-02": 38
@@ -276,8 +276,8 @@
     "uptimeYear": "100.00%",
     "time": 1042,
     "timeDay": 1192,
-    "timeWeek": 1420,
-    "timeMonth": 1080,
+    "timeWeek": 1271,
+    "timeMonth": 1086,
     "timeYear": 1042,
     "dailyMinutesDown": {}
   },
@@ -294,8 +294,8 @@
     "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 663,
-    "timeWeek": 721,
-    "timeMonth": 558,
+    "timeWeek": 763,
+    "timeMonth": 562,
     "timeYear": 580,
     "dailyMinutesDown": {}
   },
@@ -312,8 +312,8 @@
     "uptimeYear": "99.98%",
     "time": 620,
     "timeDay": 649,
-    "timeWeek": 780,
-    "timeMonth": 598,
+    "timeWeek": 809,
+    "timeMonth": 601,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2021-03-08": 23,
