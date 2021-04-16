@@ -4,17 +4,17 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3649,
-    "timeDay": 1145,
-    "timeWeek": 1603,
-    "timeMonth": 1795,
-    "timeYear": 3649,
+    "time": 3634,
+    "timeDay": 1448,
+    "timeWeek": 1622,
+    "timeMonth": 1793,
+    "timeYear": 3634,
     "dailyMinutesDown": {
       "2020-12-30": 7
     }
