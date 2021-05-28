@@ -271,9 +271,9 @@
     "url": "https://www.intk.com/en",
     "icon": "https://favicons.githubusercontent.com/www.intk.com",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -283,6 +283,7 @@
     "timeMonth": 966,
     "timeYear": 1012,
     "dailyMinutesDown": {
+      "2021-05-28": 0,
       "2021-05-12": 30
     }
   },
