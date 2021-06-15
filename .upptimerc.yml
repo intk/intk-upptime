@@ -7,6 +7,8 @@ sites:
     url: https://www.bonnefanten.nl
   - name: Het Park
     url: https://www.hetpark.nl
+  - name: De Gevangenpoort
+    url: https://www.gevangenpoort.nl
   - name: Historisch Museum Den Briel
     url: https://www.historischmuseumdenbriel.nl
   - name: Rietveld Schröderhuis
