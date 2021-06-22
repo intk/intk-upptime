@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3223,
     "timeDay": 3327,
-    "timeWeek": 3540,
+    "timeWeek": 3545,
     "timeMonth": 3094,
     "timeYear": 3223,
     "dailyMinutesDown": {
-      "2021-06-22": 6,
       "2020-12-30": 7
     }
   },
@@ -33,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1012,
     "timeDay": 1365,
-    "timeWeek": 1228,
+    "timeWeek": 1225,
     "timeMonth": 1171,
     "timeYear": 1012,
     "dailyMinutesDown": {
@@ -53,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 1040,
     "timeDay": 994,
-    "timeWeek": 1067,
+    "timeWeek": 1079,
     "timeMonth": 1433,
     "timeYear": 1040,
     "dailyMinutesDown": {}
@@ -71,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 1554,
     "timeDay": 1610,
-    "timeWeek": 1554,
+    "timeWeek": 1544,
     "timeMonth": 1554,
     "timeYear": 1554,
     "dailyMinutesDown": {}
@@ -89,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 1160,
     "timeDay": 1440,
-    "timeWeek": 1274,
+    "timeWeek": 1327,
     "timeMonth": 1297,
     "timeYear": 1160,
     "dailyMinutesDown": {}
@@ -101,18 +100,16 @@
     "slug": "rietveld-schroederhuis",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1181,
     "timeDay": 1081,
-    "timeWeek": 1250,
+    "timeWeek": 1227,
     "timeMonth": 1251,
     "timeYear": 1181,
-    "dailyMinutesDown": {
-      "2021-06-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cuypershuis",
@@ -127,7 +124,7 @@
     "uptimeYear": "99.96%",
     "time": 1116,
     "timeDay": 1527,
-    "timeWeek": 1345,
+    "timeWeek": 1343,
     "timeMonth": 1206,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -147,7 +144,7 @@
     "uptimeYear": "99.96%",
     "time": 1832,
     "timeDay": 2285,
-    "timeWeek": 2071,
+    "timeWeek": 2044,
     "timeMonth": 1954,
     "timeYear": 1832,
     "dailyMinutesDown": {
@@ -167,7 +164,7 @@
     "uptimeYear": "99.96%",
     "time": 2178,
     "timeDay": 2504,
-    "timeWeek": 2420,
+    "timeWeek": 2261,
     "timeMonth": 2266,
     "timeYear": 2178,
     "dailyMinutesDown": {
@@ -187,7 +184,7 @@
     "uptimeYear": "99.99%",
     "time": 1299,
     "timeDay": 1487,
-    "timeWeek": 1395,
+    "timeWeek": 1377,
     "timeMonth": 1344,
     "timeYear": 1299,
     "dailyMinutesDown": {
@@ -207,7 +204,7 @@
     "uptimeYear": "100.00%",
     "time": 867,
     "timeDay": 1050,
-    "timeWeek": 991,
+    "timeWeek": 974,
     "timeMonth": 930,
     "timeYear": 867,
     "dailyMinutesDown": {}
@@ -225,7 +222,7 @@
     "uptimeYear": "100.00%",
     "time": 988,
     "timeDay": 1211,
-    "timeWeek": 1099,
+    "timeWeek": 1093,
     "timeMonth": 1050,
     "timeYear": 988,
     "dailyMinutesDown": {}
@@ -243,7 +240,7 @@
     "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 1020,
-    "timeWeek": 905,
+    "timeWeek": 898,
     "timeMonth": 852,
     "timeYear": 789,
     "dailyMinutesDown": {}
@@ -261,7 +258,7 @@
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 968,
-    "timeWeek": 897,
+    "timeWeek": 879,
     "timeMonth": 909,
     "timeYear": 813,
     "dailyMinutesDown": {}
@@ -271,18 +268,19 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1508,
     "timeDay": 1135,
-    "timeWeek": 1008,
+    "timeWeek": 991,
     "timeMonth": 2845,
     "timeYear": 1508,
     "dailyMinutesDown": {
+      "2021-06-22": 0,
       "2021-05-25": 38,
       "2021-02-02": 38
     }
@@ -300,7 +298,7 @@
     "uptimeYear": "99.99%",
     "time": 1018,
     "timeDay": 1255,
-    "timeWeek": 1026,
+    "timeWeek": 1074,
     "timeMonth": 1029,
     "timeYear": 1018,
     "dailyMinutesDown": {
@@ -320,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 1158,
-    "timeWeek": 696,
+    "timeWeek": 712,
     "timeMonth": 606,
     "timeYear": 583,
     "dailyMinutesDown": {}
@@ -338,7 +336,7 @@
     "uptimeYear": "99.99%",
     "time": 632,
     "timeDay": 732,
-    "timeWeek": 706,
+    "timeWeek": 702,
     "timeMonth": 664,
     "timeYear": 632,
     "dailyMinutesDown": {
