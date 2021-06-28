@@ -232,9 +232,9 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -243,7 +243,9 @@
     "timeWeek": 810,
     "timeMonth": 845,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-28": 0
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -298,7 +300,7 @@
     "time": 1018,
     "timeDay": 1237,
     "timeWeek": 1038,
-    "timeMonth": 1045,
+    "timeMonth": 1054,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2021-05-12": 30
