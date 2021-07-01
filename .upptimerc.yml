@@ -33,8 +33,6 @@ sites:
     url: https://www.teylersmuseum.nl
   - name: INTK
     url: https://www.intk.com/en
-  - name: Porseleinplaats
-    url: http://www.porseleinplaats.nl
   - name: INTK development server
     url: https://dev.intk.com
 
