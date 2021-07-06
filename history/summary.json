@@ -80,19 +80,19 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1163,
-    "timeDay": 1318,
-    "timeWeek": 1159,
-    "timeMonth": 1262,
-    "timeYear": 1163,
+    "time": 1164,
+    "timeDay": 1319,
+    "timeWeek": 1176,
+    "timeMonth": 1263,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2021-07-06": 0
+      "2021-07-06": 11
     }
   },
   {
