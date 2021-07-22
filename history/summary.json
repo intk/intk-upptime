@@ -13,7 +13,7 @@
     "time": 3253,
     "timeDay": 3762,
     "timeWeek": 3427,
-    "timeMonth": 3416,
+    "timeMonth": 3432,
     "timeYear": 3253,
     "dailyMinutesDown": {
       "2020-12-30": 7
@@ -107,7 +107,7 @@
     "time": 1181,
     "timeDay": 1499,
     "timeWeek": 1320,
-    "timeMonth": 1173,
+    "timeMonth": 1182,
     "timeYear": 1181,
     "dailyMinutesDown": {}
   },
@@ -232,9 +232,9 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -243,7 +243,9 @@
     "timeWeek": 891,
     "timeMonth": 845,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 0
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -277,7 +279,7 @@
     "time": 1528,
     "timeDay": 1187,
     "timeWeek": 1014,
-    "timeMonth": 1616,
+    "timeMonth": 1521,
     "timeYear": 1528,
     "dailyMinutesDown": {
       "2021-05-25": 38,
