@@ -82,18 +82,16 @@
     "slug": "historisch-museum-den-briel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1178,
     "timeDay": 1470,
     "timeWeek": 1373,
     "timeMonth": 1261,
     "timeYear": 1178,
-    "dailyMinutesDown": {
-      "2021-07-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -118,11 +116,11 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 1123,
     "timeDay": 959,
@@ -130,6 +128,7 @@
     "timeMonth": 1192,
     "timeYear": 1123,
     "dailyMinutesDown": {
+      "2021-07-25": 3,
       "2021-01-10": 110
     }
   },
@@ -138,10 +137,10 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1839,
@@ -150,6 +149,7 @@
     "timeMonth": 1913,
     "timeYear": 1839,
     "dailyMinutesDown": {
+      "2021-07-25": 2,
       "2021-01-10": 110
     }
   },
@@ -158,9 +158,9 @@
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -170,6 +170,7 @@
     "timeMonth": 2247,
     "timeYear": 2183,
     "dailyMinutesDown": {
+      "2021-07-25": 0,
       "2021-01-10": 110
     }
   },
