@@ -124,7 +124,7 @@
     "uptimeYear": "99.96%",
     "time": 1134,
     "timeDay": 1530,
-    "timeWeek": 1458,
+    "timeWeek": 1393,
     "timeMonth": 1311,
     "timeYear": 1134,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
     "uptimeYear": "99.96%",
     "time": 1844,
     "timeDay": 2055,
-    "timeWeek": 1989,
+    "timeWeek": 2045,
     "timeMonth": 1981,
     "timeYear": 1844,
     "dailyMinutesDown": {
@@ -164,7 +164,7 @@
     "uptimeYear": "99.96%",
     "time": 2195,
     "timeDay": 2404,
-    "timeWeek": 2546,
+    "timeWeek": 2655,
     "timeMonth": 2367,
     "timeYear": 2195,
     "dailyMinutesDown": {
@@ -268,9 +268,9 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -280,6 +280,7 @@
     "timeMonth": 1642,
     "timeYear": 1508,
     "dailyMinutesDown": {
+      "2021-08-02": 0,
       "2021-05-25": 38,
       "2021-02-02": 38
     }
