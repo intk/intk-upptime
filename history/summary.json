@@ -258,7 +258,7 @@
     "uptimeYear": "100.00%",
     "time": 826,
     "timeDay": 1021,
-    "timeWeek": 951,
+    "timeWeek": 968,
     "timeMonth": 915,
     "timeYear": 826,
     "dailyMinutesDown": {}
@@ -268,9 +268,9 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -280,6 +280,7 @@
     "timeMonth": 1637,
     "timeYear": 1505,
     "dailyMinutesDown": {
+      "2021-08-03": 0,
       "2021-08-02": 17,
       "2021-05-25": 38,
       "2021-02-02": 38
