@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 1045,
     "timeDay": 1194,
-    "timeWeek": 988,
+    "timeWeek": 954,
     "timeMonth": 1128,
     "timeYear": 1045,
     "dailyMinutesDown": {}
@@ -80,9 +80,9 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1222,
     "timeMonth": 1297,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-20": 0
+    }
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -233,20 +235,17 @@
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "88.53%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 808,
     "timeDay": 900,
     "timeWeek": 825,
     "timeMonth": 895,
     "timeYear": 808,
-    "dailyMinutesDown": {
-      "2021-08-20": 153,
-      "2021-08-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Het Markiezenhof",
@@ -260,7 +259,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 1234,
+    "timeDay": 1415,
     "timeWeek": 965,
     "timeMonth": 967,
     "timeYear": 837,
