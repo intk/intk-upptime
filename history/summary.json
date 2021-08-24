@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1045,
-    "timeDay": 1129,
+    "timeDay": 1281,
     "timeWeek": 1021,
     "timeMonth": 1107,
     "timeYear": 1045,
@@ -156,9 +156,9 @@
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -168,6 +168,7 @@
     "timeMonth": 2369,
     "timeYear": 2204,
     "dailyMinutesDown": {
+      "2021-08-24": 0,
       "2021-01-10": 110
     }
   },
