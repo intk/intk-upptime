@@ -137,18 +137,17 @@
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1846,
     "timeDay": 1387,
     "timeWeek": 1708,
     "timeMonth": 1890,
     "timeYear": 1846,
     "dailyMinutesDown": {
-      "2021-08-27": 24,
       "2021-01-10": 110
     }
   },
@@ -233,9 +232,9 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,7 +243,9 @@
     "timeWeek": 860,
     "timeMonth": 876,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-27": 0
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -253,18 +254,16 @@
     "slug": "het-markiezenhof",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 675,
     "timeWeek": 780,
     "timeMonth": 938,
     "timeYear": 835,
-    "dailyMinutesDown": {
-      "2021-08-27": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teylers Museum",
