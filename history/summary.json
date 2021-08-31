@@ -98,9 +98,9 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 1542,
     "timeMonth": 1387,
     "timeYear": 1214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   },
   {
     "name": "Cuypershuis",
@@ -164,7 +166,7 @@
     "uptimeYear": "99.97%",
     "time": 2206,
     "timeDay": 1732,
-    "timeWeek": 2269,
+    "timeWeek": 2280,
     "timeMonth": 2278,
     "timeYear": 2206,
     "dailyMinutesDown": {
@@ -239,7 +241,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 704,
+    "timeDay": 542,
     "timeWeek": 892,
     "timeMonth": 865,
     "timeYear": 812,
