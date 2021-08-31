@@ -98,19 +98,19 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1214,
-    "timeDay": 847,
-    "timeWeek": 1542,
-    "timeMonth": 1387,
-    "timeYear": 1214,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1215,
+    "timeDay": 1207,
+    "timeWeek": 1545,
+    "timeMonth": 1392,
+    "timeYear": 1215,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 20
     }
   },
   {
