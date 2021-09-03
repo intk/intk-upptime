@@ -44,19 +44,19 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://favicons.githubusercontent.com/www.hetpark.nl",
     "slug": "het-park",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1035,
-    "timeDay": 784,
-    "timeWeek": 798,
+    "timeDay": 860,
+    "timeWeek": 820,
     "timeMonth": 1015,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2021-09-03": 0
+      "2021-09-03": 29
     }
   },
   {
@@ -101,19 +101,17 @@
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1216,
     "timeDay": 1531,
     "timeWeek": 1579,
     "timeMonth": 1384,
     "timeYear": 1216,
-    "dailyMinutesDown": {
-      "2021-08-31": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cuypershuis",
@@ -237,19 +235,17 @@
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 819,
-    "timeDay": 1714,
+    "timeDay": 1117,
     "timeWeek": 1054,
     "timeMonth": 903,
     "timeYear": 819,
-    "dailyMinutesDown": {
-      "2021-09-02": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Het Markiezenhof",
