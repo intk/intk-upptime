@@ -44,9 +44,9 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://favicons.githubusercontent.com/www.hetpark.nl",
     "slug": "het-park",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 828,
     "timeMonth": 1028,
     "timeYear": 1037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-03": 0
+    }
   },
   {
     "name": "De Gevangenpoort",
