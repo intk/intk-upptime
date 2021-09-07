@@ -27,6 +27,8 @@ sites:
     url: https://www.mondriaanhuis.nl
   - name: Zeeuws Museum
     url: https://www.zeeuwsmuseum.nl
+  - name: Zeeuws Museum Jaarverslag
+    url: http://jaarverslag.zeeuwsmuseum.nl
   - name: Het Markiezenhof
     url: https://www.markiezenhof.nl
   - name: Teylers Museum
