@@ -179,8 +179,8 @@
     "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.26%",
-    "uptimeMonth": "95.69%",
+    "uptimeWeek": "81.06%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "99.47%",
     "time": 1324,
     "timeDay": 0,
@@ -188,7 +188,7 @@
     "timeMonth": 1448,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2021-09-08": 1170,
+      "2021-09-08": 1190,
       "2021-09-07": 719,
       "2021-05-24": 34
     }
@@ -234,19 +234,19 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 520,
-    "timeWeek": 1016,
-    "timeMonth": 919,
-    "timeYear": 820,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 824,
+    "timeDay": 1185,
+    "timeWeek": 1100,
+    "timeMonth": 944,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2021-09-08": 8
+      "2021-09-08": 28
     }
   },
   {
@@ -255,19 +255,17 @@
     "icon": "https://favicons.githubusercontent.com/jaarverslag.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum-jaarverslag",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4430,
     "timeDay": 6502,
     "timeWeek": 4430,
     "timeMonth": 4430,
     "timeYear": 4430,
-    "dailyMinutesDown": {
-      "2021-09-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Het Markiezenhof",
