@@ -177,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/www.veenkoloniaalmuseum.nl",
     "slug": "veenkoloniaal-museum",
     "status": "down",
-    "uptime": "99.47%",
+    "uptime": "99.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.06%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "99.47%",
+    "uptimeWeek": "80.55%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "99.45%",
     "time": 1324,
     "timeDay": 0,
     "timeWeek": 1468,
     "timeMonth": 1448,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2021-09-08": 1190,
+      "2021-09-08": 1241,
       "2021-09-07": 719,
       "2021-05-24": 34
     }
@@ -234,11 +234,11 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 824,
     "timeDay": 1185,
@@ -246,7 +246,7 @@
     "timeMonth": 944,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2021-09-08": 28
+      "2021-09-08": 30
     }
   },
   {
@@ -254,18 +254,20 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/jaarverslag.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 4430,
     "timeDay": 6502,
     "timeWeek": 4430,
     "timeMonth": 4430,
     "timeYear": 4430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-08": 0
+    }
   },
   {
     "name": "Het Markiezenhof",
