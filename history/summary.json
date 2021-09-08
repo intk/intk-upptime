@@ -177,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/www.veenkoloniaalmuseum.nl",
     "slug": "veenkoloniaal-museum",
     "status": "down",
-    "uptime": "99.45%",
+    "uptime": "99.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.55%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "80.09%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "99.44%",
     "time": 1324,
     "timeDay": 0,
     "timeWeek": 1468,
     "timeMonth": 1448,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2021-09-08": 1241,
+      "2021-09-08": 1288,
       "2021-09-07": 719,
       "2021-05-24": 34
     }
@@ -235,18 +235,18 @@
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 824,
     "timeDay": 1185,
     "timeWeek": 1100,
     "timeMonth": 944,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2021-09-08": 30
+      "2021-09-08": 77
     }
   },
   {
@@ -254,19 +254,19 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/jaarverslag.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4430,
-    "timeDay": 6502,
-    "timeWeek": 4430,
-    "timeMonth": 4430,
-    "timeYear": 4430,
+    "status": "up",
+    "uptime": "97.94%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
+    "time": 10767,
+    "timeDay": 14261,
+    "timeWeek": 10767,
+    "timeMonth": 10767,
+    "timeYear": 10767,
     "dailyMinutesDown": {
-      "2021-09-08": 0
+      "2021-09-08": 47
     }
   },
   {
