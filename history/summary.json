@@ -80,9 +80,9 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1320,
     "timeMonth": 1366,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -177,21 +179,17 @@
     "icon": "https://favicons.githubusercontent.com/www.veenkoloniaalmuseum.nl",
     "slug": "veenkoloniaal-museum",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "57.99%",
-    "uptimeMonth": "90.33%",
-    "uptimeYear": "98.84%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1327,
     "timeDay": 2132,
     "timeWeek": 1632,
     "timeMonth": 1474,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2021-09-10": 635,
-      "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 719,
       "2021-05-24": 34
     }
   },
