@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1208,
-    "timeDay": 1519,
-    "timeWeek": 1374,
+    "timeDay": 1700,
+    "timeWeek": 1381,
     "timeMonth": 1370,
     "timeYear": 1208,
     "dailyMinutesDown": {}
@@ -183,7 +183,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1328,
-    "timeDay": 1916,
+    "timeDay": 1699,
     "timeWeek": 1701,
     "timeMonth": 1474,
     "timeYear": 1328,
@@ -268,9 +268,9 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -279,7 +279,9 @@
     "timeWeek": 993,
     "timeMonth": 936,
     "timeYear": 842,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-11": 0
+    }
   },
   {
     "name": "Teylers Museum",
