@@ -3,6 +3,8 @@ repo: intk-upptime # Your Github repository name
 sites:
   - name: Uitgeverij Komma
     url: https://www.uitgeverijkomma.nl
+  - name: Haags Historisch Museum
+    url: https://www.haagshistorischmuseum.nl
   - name: Centraal Museum
     url: https://www.centraalmuseum.nl
   - name: Bonnefanten
