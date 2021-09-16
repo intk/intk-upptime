@@ -60,10 +60,10 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://favicons.githubusercontent.com/www.bonnefanten.nl",
     "slug": "bonnefanten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1083,
@@ -72,6 +72,7 @@
     "timeMonth": 1275,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2021-09-16": 1,
       "2020-12-30": 6
     }
   },
@@ -305,18 +306,18 @@
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 850,
     "timeDay": 531,
     "timeWeek": 1089,
     "timeMonth": 944,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2021-09-16": 0
+      "2021-09-16": 60
     }
   },
   {
