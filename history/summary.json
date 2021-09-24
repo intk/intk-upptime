@@ -268,19 +268,19 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 1068,
-    "timeWeek": 1016,
-    "timeMonth": 962,
-    "timeYear": 830,
+    "time": 836,
+    "timeDay": 1772,
+    "timeWeek": 1162,
+    "timeMonth": 999,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2021-09-24": 0
+      "2021-09-24": 6
     }
   },
   {
