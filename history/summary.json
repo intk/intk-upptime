@@ -62,9 +62,9 @@
     "slug": "bonnefanten",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1611,
@@ -72,7 +72,6 @@
     "timeMonth": 1424,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2021-09-25": 7,
       "2020-12-30": 6
     }
   },
@@ -81,10 +80,10 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://favicons.githubusercontent.com/www.hetpark.nl",
     "slug": "het-park",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1023,
@@ -92,7 +91,9 @@
     "timeWeek": 957,
     "timeMonth": 871,
     "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 1
+    }
   },
   {
     "name": "De Gevangenpoort",
@@ -153,9 +154,9 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -165,6 +166,7 @@
     "timeMonth": 1245,
     "timeYear": 1153,
     "dailyMinutesDown": {
+      "2021-09-25": 0,
       "2021-01-10": 110
     }
   },
