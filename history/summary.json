@@ -22,19 +22,19 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1555,
-    "timeDay": 1564,
-    "timeWeek": 1516,
-    "timeMonth": 1555,
-    "timeYear": 1555,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1549,
+    "timeDay": 1485,
+    "timeWeek": 1502,
+    "timeMonth": 1549,
+    "timeYear": 1549,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-04": 5
     }
   },
   {
