@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1567,
-    "timeDay": 1777,
-    "timeWeek": 1529,
-    "timeMonth": 1567,
-    "timeYear": 1567,
+    "time": 1571,
+    "timeDay": 1660,
+    "timeWeek": 1526,
+    "timeMonth": 1571,
+    "timeYear": 1571,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1555,
-    "timeDay": 1580,
-    "timeWeek": 1548,
+    "timeDay": 1564,
+    "timeWeek": 1516,
     "timeMonth": 1555,
     "timeYear": 1555,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3431,
-    "timeDay": 3950,
-    "timeWeek": 3358,
-    "timeMonth": 3847,
-    "timeYear": 3431,
+    "time": 3434,
+    "timeDay": 4274,
+    "timeWeek": 3478,
+    "timeMonth": 3860,
+    "timeYear": 3434,
     "dailyMinutesDown": {
       "2020-12-30": 7
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 1477,
-    "timeWeek": 1266,
-    "timeMonth": 1384,
+    "timeDay": 1193,
+    "timeWeek": 1220,
+    "timeMonth": 1397,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2020-12-30": 6
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1020,
-    "timeDay": 1058,
-    "timeWeek": 890,
-    "timeMonth": 912,
+    "timeDay": 804,
+    "timeWeek": 852,
+    "timeMonth": 896,
     "timeYear": 1020,
     "dailyMinutesDown": {}
   },
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1476,
-    "timeDay": 1669,
-    "timeWeek": 1545,
-    "timeMonth": 1489,
-    "timeYear": 1476,
+    "time": 1478,
+    "timeDay": 1690,
+    "timeWeek": 1499,
+    "timeMonth": 1502,
+    "timeYear": 1478,
     "dailyMinutesDown": {}
   },
   {
@@ -118,18 +118,16 @@
     "slug": "historisch-museum-den-briel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1274,
-    "timeDay": 10784,
-    "timeWeek": 3645,
+    "timeDay": 10563,
+    "timeWeek": 3619,
     "timeMonth": 1790,
     "timeYear": 1274,
-    "dailyMinutesDown": {
-      "2021-10-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -143,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1226,
-    "timeDay": 1524,
-    "timeWeek": 1264,
-    "timeMonth": 1308,
+    "timeDay": 1163,
+    "timeWeek": 1214,
+    "timeMonth": 1310,
     "timeYear": 1226,
     "dailyMinutesDown": {}
   },
@@ -161,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1156,
-    "timeDay": 1513,
-    "timeWeek": 1245,
-    "timeMonth": 1261,
+    "timeDay": 1221,
+    "timeWeek": 1203,
+    "timeMonth": 1267,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2021-01-10": 110
@@ -181,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1858,
-    "timeDay": 2214,
-    "timeWeek": 1920,
-    "timeMonth": 1945,
+    "timeDay": 1934,
+    "timeWeek": 1882,
+    "timeMonth": 1955,
     "timeYear": 1858,
     "dailyMinutesDown": {
       "2021-01-10": 110
@@ -200,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2232,
-    "timeDay": 2665,
-    "timeWeek": 2531,
-    "timeMonth": 2436,
-    "timeYear": 2232,
+    "time": 2233,
+    "timeDay": 2337,
+    "timeWeek": 2486,
+    "timeMonth": 2446,
+    "timeYear": 2233,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -221,9 +219,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1339,
-    "timeDay": 1780,
-    "timeWeek": 1435,
-    "timeMonth": 1506,
+    "timeDay": 1342,
+    "timeWeek": 1397,
+    "timeMonth": 1508,
     "timeYear": 1339,
     "dailyMinutesDown": {
       "2021-05-24": 34
@@ -241,9 +239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 900,
-    "timeDay": 1207,
-    "timeWeek": 992,
-    "timeMonth": 983,
+    "timeDay": 932,
+    "timeWeek": 975,
+    "timeMonth": 988,
     "timeYear": 900,
     "dailyMinutesDown": {}
   },
@@ -259,9 +257,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1018,
-    "timeDay": 1269,
-    "timeWeek": 1096,
-    "timeMonth": 1095,
+    "timeDay": 1085,
+    "timeWeek": 1068,
+    "timeMonth": 1102,
     "timeYear": 1018,
     "dailyMinutesDown": {}
   },
@@ -276,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 1094,
-    "timeWeek": 900,
-    "timeMonth": 971,
-    "timeYear": 837,
+    "time": 838,
+    "timeDay": 895,
+    "timeWeek": 877,
+    "timeMonth": 977,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -294,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1621,
-    "timeDay": 307,
-    "timeWeek": 257,
-    "timeMonth": 1621,
-    "timeYear": 1621,
+    "time": 1579,
+    "timeDay": 278,
+    "timeWeek": 254,
+    "timeMonth": 1579,
+    "timeYear": 1579,
     "dailyMinutesDown": {}
   },
   {
@@ -313,9 +311,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 1073,
-    "timeWeek": 967,
-    "timeMonth": 1015,
+    "timeDay": 946,
+    "timeWeek": 952,
+    "timeMonth": 1023,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -330,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1440,
-    "timeDay": 1225,
-    "timeWeek": 1037,
-    "timeMonth": 1337,
-    "timeYear": 1440,
+    "time": 1439,
+    "timeDay": 976,
+    "timeWeek": 1014,
+    "timeMonth": 1342,
+    "timeYear": 1439,
     "dailyMinutesDown": {
       "2021-02-02": 38
     }
@@ -351,9 +349,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1046,
-    "timeDay": 1318,
-    "timeWeek": 1152,
-    "timeMonth": 1115,
+    "timeDay": 1124,
+    "timeWeek": 1124,
+    "timeMonth": 1117,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2021-05-12": 30
@@ -371,9 +369,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 647,
-    "timeDay": 765,
-    "timeWeek": 672,
-    "timeMonth": 679,
+    "timeDay": 638,
+    "timeWeek": 634,
+    "timeMonth": 684,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2021-06-28": 27,
