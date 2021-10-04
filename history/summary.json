@@ -22,9 +22,9 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1516,
     "timeMonth": 1555,
     "timeYear": 1555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 0
+    }
   },
   {
     "name": "Centraal Museum",
@@ -123,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1274,
-    "timeDay": 10563,
+    "timeDay": 1175,
     "timeWeek": 3619,
-    "timeMonth": 1790,
+    "timeMonth": 1803,
     "timeYear": 1274,
     "dailyMinutesDown": {}
   },
