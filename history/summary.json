@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1566,
-    "timeDay": 2235,
-    "timeWeek": 1564,
-    "timeMonth": 1566,
-    "timeYear": 1566,
+    "time": 1576,
+    "timeDay": 1850,
+    "timeWeek": 1591,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {}
   },
   {
@@ -23,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 1525,
-    "timeDay": 1453,
-    "timeWeek": 1459,
-    "timeMonth": 1525,
-    "timeYear": 1525,
-    "dailyMinutesDown": {
-      "2021-10-05": 89,
-      "2021-10-04": 34
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1533,
+    "timeDay": 1746,
+    "timeWeek": 1479,
+    "timeMonth": 1533,
+    "timeYear": 1533,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Centraal Museum",
@@ -49,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3434,
-    "timeDay": 4008,
-    "timeWeek": 3537,
-    "timeMonth": 3646,
-    "timeYear": 3434,
+    "time": 3436,
+    "timeDay": 3987,
+    "timeWeek": 3496,
+    "timeMonth": 3645,
+    "timeYear": 3436,
     "dailyMinutesDown": {
       "2020-12-30": 7
     }
@@ -69,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 1585,
-    "timeWeek": 1950,
-    "timeMonth": 1524,
-    "timeYear": 1131,
+    "time": 1132,
+    "timeDay": 1497,
+    "timeWeek": 1993,
+    "timeMonth": 1527,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2020-12-30": 6
     }
@@ -90,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
-    "timeDay": 1090,
-    "timeWeek": 824,
-    "timeMonth": 891,
+    "timeDay": 1065,
+    "timeWeek": 861,
+    "timeMonth": 893,
     "timeYear": 1016,
     "dailyMinutesDown": {}
   },
@@ -102,20 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1473,
-    "timeDay": 1891,
-    "timeWeek": 1427,
-    "timeMonth": 1498,
+    "timeDay": 1494,
+    "timeWeek": 1402,
+    "timeMonth": 1494,
     "timeYear": 1473,
-    "dailyMinutesDown": {
-      "2021-10-05": 16,
-      "2021-10-04": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Historisch Museum Den Briel",
@@ -123,19 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1322,
-    "timeDay": 1398,
-    "timeWeek": 4724,
-    "timeMonth": 2185,
+    "timeDay": 1374,
+    "timeWeek": 3055,
+    "timeMonth": 2199,
     "timeYear": 1322,
-    "dailyMinutesDown": {
-      "2021-10-08": 158
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -148,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 1543,
-    "timeWeek": 1079,
-    "timeMonth": 1266,
-    "timeYear": 1223,
+    "time": 1224,
+    "timeDay": 1655,
+    "timeWeek": 1150,
+    "timeMonth": 1269,
+    "timeYear": 1224,
     "dailyMinutesDown": {}
   },
   {
@@ -166,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1155,
-    "timeDay": 1538,
-    "timeWeek": 1126,
-    "timeMonth": 1253,
-    "timeYear": 1155,
+    "time": 1156,
+    "timeDay": 1378,
+    "timeWeek": 1148,
+    "timeMonth": 1250,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -186,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1857,
-    "timeDay": 2215,
-    "timeWeek": 1830,
-    "timeMonth": 1921,
-    "timeYear": 1857,
+    "time": 1859,
+    "timeDay": 2226,
+    "timeWeek": 1867,
+    "timeMonth": 1925,
+    "timeYear": 1859,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -206,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2233,
-    "timeDay": 2978,
-    "timeWeek": 2277,
+    "time": 2235,
+    "timeDay": 2605,
+    "timeWeek": 2316,
     "timeMonth": 2452,
-    "timeYear": 2233,
+    "timeYear": 2235,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -226,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1340,
-    "timeDay": 1642,
-    "timeWeek": 1375,
-    "timeMonth": 1475,
-    "timeYear": 1340,
+    "time": 1341,
+    "timeDay": 1554,
+    "timeWeek": 1406,
+    "timeMonth": 1450,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2021-05-24": 34
     }
@@ -246,11 +238,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 1129,
-    "timeWeek": 888,
-    "timeMonth": 977,
-    "timeYear": 899,
+    "time": 900,
+    "timeDay": 1201,
+    "timeWeek": 927,
+    "timeMonth": 979,
+    "timeYear": 900,
     "dailyMinutesDown": {}
   },
   {
@@ -264,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1296,
-    "timeWeek": 1168,
-    "timeMonth": 1129,
-    "timeYear": 1021,
+    "time": 1022,
+    "timeDay": 1281,
+    "timeWeek": 1196,
+    "timeMonth": 1131,
+    "timeYear": 1022,
     "dailyMinutesDown": {}
   },
   {
@@ -283,9 +275,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 1126,
-    "timeWeek": 844,
-    "timeMonth": 952,
+    "timeDay": 1062,
+    "timeWeek": 868,
+    "timeMonth": 953,
     "timeYear": 838,
     "dailyMinutesDown": {}
   },
@@ -300,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1368,
-    "timeDay": 361,
-    "timeWeek": 249,
-    "timeMonth": 258,
-    "timeYear": 1368,
+    "time": 1342,
+    "timeDay": 332,
+    "timeWeek": 257,
+    "timeMonth": 260,
+    "timeYear": 1342,
     "dailyMinutesDown": {}
   },
   {
@@ -318,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 1106,
-    "timeWeek": 830,
-    "timeMonth": 1007,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 1083,
+    "timeWeek": 849,
+    "timeMonth": 995,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -336,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1429,
-    "timeDay": 1226,
-    "timeWeek": 903,
-    "timeMonth": 1222,
-    "timeYear": 1429,
+    "time": 1428,
+    "timeDay": 1234,
+    "timeWeek": 940,
+    "timeMonth": 1224,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2021-02-02": 38
     }
@@ -356,11 +348,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1046,
-    "timeDay": 1324,
-    "timeWeek": 1049,
-    "timeMonth": 1111,
-    "timeYear": 1046,
+    "time": 1047,
+    "timeDay": 1290,
+    "timeWeek": 1073,
+    "timeMonth": 1112,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2021-05-12": 30
     }
@@ -377,9 +369,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 646,
-    "timeDay": 790,
-    "timeWeek": 580,
-    "timeMonth": 667,
+    "timeDay": 833,
+    "timeWeek": 608,
+    "timeMonth": 668,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2021-06-28": 27,
