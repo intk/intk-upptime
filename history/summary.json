@@ -4,9 +4,9 @@
     "url": "https://www.uitgeverijkomma.nl",
     "icon": "https://favicons.githubusercontent.com/www.uitgeverijkomma.nl",
     "slug": "uitgeverij-komma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1635,
     "timeMonth": 1576,
     "timeYear": 1580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-17": 0
+    }
   },
   {
     "name": "Haags Historisch Museum",
@@ -329,7 +331,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1422,
-    "timeDay": 976,
+    "timeDay": 734,
     "timeWeek": 1138,
     "timeMonth": 1294,
     "timeYear": 1422,
