@@ -64,9 +64,9 @@
     "slug": "bonnefanten",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1144,
     "timeDay": 2745,
@@ -74,7 +74,6 @@
     "timeMonth": 1554,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2021-10-17": 6,
       "2020-12-30": 6
     }
   },
