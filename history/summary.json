@@ -306,9 +306,9 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.03%",
+    "uptimeDay": "92.99%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
@@ -318,7 +318,7 @@
     "timeMonth": 1793,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2021-10-24": 100
+      "2021-10-24": 101
     }
   },
   {
