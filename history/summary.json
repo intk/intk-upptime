@@ -270,9 +270,9 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +281,9 @@
     "timeWeek": 907,
     "timeMonth": 932,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 0
+    }
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
