@@ -62,9 +62,9 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://favicons.githubusercontent.com/www.bonnefanten.nl",
     "slug": "bonnefanten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +74,7 @@
     "timeMonth": 1593,
     "timeYear": 1164,
     "dailyMinutesDown": {
+      "2021-11-02": 1,
       "2020-12-30": 6
     }
   },
@@ -216,9 +217,9 @@
     "slug": "veenkoloniaal-museum",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1349,
     "timeDay": 1936,
@@ -226,7 +227,6 @@
     "timeMonth": 1458,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2021-11-02": 27,
       "2021-05-24": 34
     }
   },
