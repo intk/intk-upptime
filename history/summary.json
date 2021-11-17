@@ -24,19 +24,19 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 1493,
-    "timeDay": 1449,
-    "timeWeek": 1457,
-    "timeMonth": 1473,
-    "timeYear": 1493,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.87%",
+    "time": 1503,
+    "timeDay": 1821,
+    "timeWeek": 1549,
+    "timeMonth": 1496,
+    "timeYear": 1503,
     "dailyMinutesDown": {
-      "2021-11-17": 31
+      "2021-11-17": 121
     }
   },
   {
@@ -104,19 +104,17 @@
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1481,
     "timeDay": 2233,
     "timeWeek": 1655,
     "timeMonth": 1507,
     "timeYear": 1481,
-    "dailyMinutesDown": {
-      "2021-11-17": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Historisch Museum Den Briel",
@@ -186,7 +184,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1857,
-    "timeDay": 1782,
+    "timeDay": 2167,
     "timeWeek": 1878,
     "timeMonth": 1831,
     "timeYear": 1857,
