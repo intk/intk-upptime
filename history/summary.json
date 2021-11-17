@@ -24,10 +24,10 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1493,
@@ -35,7 +35,9 @@
     "timeWeek": 1457,
     "timeMonth": 1473,
     "timeYear": 1493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-17": 1
+    }
   },
   {
     "name": "Centraal Museum",
@@ -101,10 +103,10 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1475,
@@ -112,7 +114,9 @@
     "timeWeek": 1531,
     "timeMonth": 1475,
     "timeYear": 1475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-17": 1
+    }
   },
   {
     "name": "Historisch Museum Den Briel",
@@ -176,18 +180,17 @@
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1857,
     "timeDay": 1782,
     "timeWeek": 1878,
     "timeMonth": 1831,
     "timeYear": 1857,
     "dailyMinutesDown": {
-      "2021-11-16": 18,
       "2021-01-10": 110
     }
   },
@@ -274,18 +277,16 @@
     "slug": "zeeuws-museum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 1102,
     "timeWeek": 983,
     "timeMonth": 959,
     "timeYear": 852,
-    "dailyMinutesDown": {
-      "2021-11-17": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
