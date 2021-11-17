@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 1493,
     "timeDay": 1449,
     "timeWeek": 1457,
     "timeMonth": 1473,
     "timeYear": 1493,
     "dailyMinutesDown": {
-      "2021-11-17": 1
+      "2021-11-17": 31
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1475,
-    "timeDay": 1948,
-    "timeWeek": 1531,
-    "timeMonth": 1475,
-    "timeYear": 1475,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1481,
+    "timeDay": 2233,
+    "timeWeek": 1655,
+    "timeMonth": 1507,
+    "timeYear": 1481,
     "dailyMinutesDown": {
-      "2021-11-17": 1
+      "2021-11-17": 30
     }
   },
   {
