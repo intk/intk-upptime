@@ -326,28 +326,26 @@
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1013,
     "timeDay": 797,
     "timeWeek": 1076,
     "timeMonth": 983,
     "timeYear": 1013,
-    "dailyMinutesDown": {
-      "2021-11-27": 187
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teylers Museum",
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -357,6 +355,7 @@
     "timeMonth": 1364,
     "timeYear": 1410,
     "dailyMinutesDown": {
+      "2021-11-30": 0,
       "2021-02-02": 38
     }
   },
