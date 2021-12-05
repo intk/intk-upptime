@@ -60,9 +60,9 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 3786,
     "timeYear": 3483,
     "dailyMinutesDown": {
+      "2021-12-05": 0,
       "2020-12-30": 7
     }
   },
@@ -155,9 +156,9 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,7 +167,9 @@
     "timeWeek": 1413,
     "timeMonth": 1306,
     "timeYear": 1239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   },
   {
     "name": "Cuypershuis",
