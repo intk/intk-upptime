@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 3514,
     "timeDay": 3644,
-    "timeWeek": 4921,
+    "timeWeek": 3812,
     "timeMonth": 4006,
     "timeYear": 3514,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "100.00%",
     "time": 1246,
     "timeDay": 1577,
-    "timeWeek": 1441,
+    "timeWeek": 1253,
     "timeMonth": 1378,
     "timeYear": 1246,
     "dailyMinutesDown": {}
@@ -325,19 +325,19 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1030,
-    "timeWeek": 996,
-    "timeMonth": 1039,
-    "timeYear": 1016,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.74%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
+    "time": 1022,
+    "timeDay": 2147,
+    "timeWeek": 1279,
+    "timeMonth": 1104,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2021-12-16": 1
+      "2021-12-16": 148
     }
   },
   {
