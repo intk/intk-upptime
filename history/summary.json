@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1506,
-    "timeDay": 1351,
-    "timeWeek": 1596,
-    "timeMonth": 1491,
+    "timeDay": 1510,
+    "timeWeek": 1345,
+    "timeMonth": 1490,
     "timeYear": 1506,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1647,
-    "timeDay": 2051,
-    "timeWeek": 1777,
-    "timeMonth": 1685,
-    "timeYear": 1647,
+    "time": 1649,
+    "timeDay": 1858,
+    "timeWeek": 1766,
+    "timeMonth": 1684,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2021-10-17": 184
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1541,
-    "timeDay": 1882,
-    "timeWeek": 1585,
-    "timeMonth": 1547,
+    "timeDay": 1529,
+    "timeWeek": 1569,
+    "timeMonth": 1552,
     "timeYear": 1541,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3543,
-    "timeDay": 3335,
-    "timeWeek": 3332,
-    "timeMonth": 4226,
-    "timeYear": 3543,
+    "time": 3544,
+    "timeDay": 4001,
+    "timeWeek": 3395,
+    "timeMonth": 4241,
+    "timeYear": 3545,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1176,
-    "timeDay": 1326,
-    "timeWeek": 1131,
-    "timeMonth": 1213,
-    "timeYear": 1187,
+    "time": 1177,
+    "timeDay": 1483,
+    "timeWeek": 1140,
+    "timeMonth": 1214,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2021-11-02": 45
     }
@@ -100,18 +100,16 @@
     "slug": "het-park",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 996,
-    "timeDay": 1016,
+    "timeDay": 1018,
     "timeWeek": 832,
-    "timeMonth": 929,
-    "timeYear": 1003,
-    "dailyMinutesDown": {
-      "2022-01-03": 12
-    }
+    "timeMonth": 928,
+    "timeYear": 1004,
+    "dailyMinutesDown": {}
   },
   {
     "name": "De Gevangenpoort",
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1518,
-    "timeDay": 1975,
-    "timeWeek": 1706,
-    "timeMonth": 1698,
-    "timeYear": 1518,
+    "time": 1521,
+    "timeDay": 2165,
+    "timeWeek": 1710,
+    "timeMonth": 1714,
+    "timeYear": 1521,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1308,
-    "timeDay": 1381,
-    "timeWeek": 1147,
-    "timeMonth": 1231,
-    "timeYear": 1317,
+    "time": 1309,
+    "timeDay": 1543,
+    "timeWeek": 1169,
+    "timeMonth": 1234,
+    "timeYear": 1319,
     "dailyMinutesDown": {}
   },
   {
@@ -161,10 +159,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1247,
-    "timeDay": 1513,
-    "timeWeek": 1220,
-    "timeMonth": 1363,
-    "timeYear": 1251,
+    "timeDay": 1372,
+    "timeWeek": 1199,
+    "timeMonth": 1358,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1179,
-    "timeDay": 1474,
-    "timeWeek": 1157,
-    "timeMonth": 1258,
-    "timeYear": 1185,
+    "time": 1180,
+    "timeDay": 1296,
+    "timeWeek": 1159,
+    "timeMonth": 1263,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -199,10 +197,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1878,
-    "timeDay": 2140,
-    "timeWeek": 1957,
-    "timeMonth": 1970,
-    "timeYear": 1885,
+    "timeDay": 2192,
+    "timeWeek": 1958,
+    "timeMonth": 1984,
+    "timeYear": 1887,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -218,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2256,
-    "timeDay": 2504,
-    "timeWeek": 2254,
-    "timeMonth": 2327,
-    "timeYear": 2267,
+    "time": 2257,
+    "timeDay": 2576,
+    "timeWeek": 2251,
+    "timeMonth": 2328,
+    "timeYear": 2269,
     "dailyMinutesDown": {
       "2021-01-10": 110
     }
@@ -238,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1387,
-    "timeDay": 1562,
-    "timeWeek": 1428,
-    "timeMonth": 1610,
-    "timeYear": 1396,
+    "time": 1388,
+    "timeDay": 1740,
+    "timeWeek": 1446,
+    "timeMonth": 1605,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2021-05-24": 34
     }
@@ -258,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 1164,
-    "timeWeek": 888,
-    "timeMonth": 962,
-    "timeYear": 926,
+    "time": 920,
+    "timeDay": 1138,
+    "timeWeek": 891,
+    "timeMonth": 961,
+    "timeYear": 927,
     "dailyMinutesDown": {}
   },
   {
@@ -276,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 1237,
+    "time": 1042,
+    "timeDay": 1240,
     "timeWeek": 1030,
-    "timeMonth": 1094,
-    "timeYear": 1046,
+    "timeMonth": 1095,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   },
   {
@@ -295,10 +293,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 923,
-    "timeDay": 1064,
-    "timeWeek": 848,
-    "timeMonth": 1648,
-    "timeYear": 932,
+    "timeDay": 1075,
+    "timeWeek": 845,
+    "timeMonth": 1649,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -312,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 295,
-    "timeWeek": 240,
-    "timeMonth": 264,
-    "timeYear": 609,
+    "time": 607,
+    "timeDay": 374,
+    "timeWeek": 249,
+    "timeMonth": 267,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   },
   {
@@ -330,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1081,
-    "timeWeek": 838,
-    "timeMonth": 1059,
-    "timeYear": 1028,
+    "time": 1019,
+    "timeDay": 1638,
+    "timeWeek": 920,
+    "timeMonth": 1062,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   },
   {
@@ -343,18 +341,17 @@
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.93%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.94%",
     "time": 1395,
-    "timeDay": 1136,
-    "timeWeek": 1282,
-    "timeMonth": 1110,
-    "timeYear": 1395,
+    "timeDay": 1208,
+    "timeWeek": 1290,
+    "timeMonth": 1107,
+    "timeYear": 1396,
     "dailyMinutesDown": {
-      "2021-12-31": 35,
       "2021-12-05": 300,
       "2021-02-02": 38
     }
@@ -370,11 +367,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1073,
-    "timeDay": 1468,
-    "timeWeek": 1294,
-    "timeMonth": 1202,
-    "timeYear": 1073,
+    "time": 1074,
+    "timeDay": 1506,
+    "timeWeek": 1296,
+    "timeMonth": 1204,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2021-05-12": 30
     }
@@ -390,11 +387,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 795,
-    "timeWeek": 651,
-    "timeMonth": 702,
-    "timeYear": 659,
+    "time": 659,
+    "timeDay": 825,
+    "timeWeek": 650,
+    "timeMonth": 703,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2021-06-28": 27,
       "2021-03-08": 23
