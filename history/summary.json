@@ -60,9 +60,9 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 3392,
     "timeMonth": 4266,
     "timeYear": 3546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 0
+    }
   },
   {
     "name": "Bonnefanten",
