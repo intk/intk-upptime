@@ -100,19 +100,19 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://favicons.githubusercontent.com/www.hetpark.nl",
     "slug": "het-park",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 992,
-    "timeDay": 1139,
-    "timeWeek": 890,
-    "timeMonth": 905,
+    "timeDay": 1078,
+    "timeWeek": 904,
+    "timeMonth": 908,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-15": 16
     }
   },
   {
