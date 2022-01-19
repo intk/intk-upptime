@@ -208,9 +208,9 @@
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 2481,
     "timeMonth": 2332,
     "timeYear": 2282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   },
   {
     "name": "Veenkoloniaal Museum",
