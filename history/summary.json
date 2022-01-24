@@ -172,19 +172,19 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1182,
-    "timeDay": 684,
-    "timeWeek": 1204,
-    "timeMonth": 1214,
-    "timeYear": 1200,
+    "timeDay": 948,
+    "timeWeek": 1234,
+    "timeMonth": 1222,
+    "timeYear": 1201,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 22
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1875,
-    "timeDay": 1036,
-    "timeWeek": 1738,
-    "timeMonth": 1888,
+    "time": 1876,
+    "timeDay": 1371,
+    "timeWeek": 1772,
+    "timeMonth": 1893,
     "timeYear": 1892,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 22
     }
   },
   {
