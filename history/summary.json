@@ -70,7 +70,7 @@
     "timeDay": 4093,
     "timeWeek": 3648,
     "timeMonth": 5021,
-    "timeYear": 3465,
+    "timeYear": 3463,
     "dailyMinutesDown": {}
   },
   {
@@ -358,11 +358,11 @@
     "url": "https://www.intk.com/en",
     "icon": "https://favicons.githubusercontent.com/www.intk.com",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1082,
     "timeDay": 1442,
@@ -370,7 +370,7 @@
     "timeMonth": 1195,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2022-02-08": 6,
+      "2022-02-08": 0,
       "2021-05-12": 30
     }
   },
