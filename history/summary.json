@@ -78,9 +78,9 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://favicons.githubusercontent.com/www.bonnefanten.nl",
     "slug": "bonnefanten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -90,6 +90,7 @@
     "timeMonth": 1194,
     "timeYear": 1210,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2021-11-02": 45
     }
   },
@@ -343,7 +344,7 @@
     "uptimeYear": "99.94%",
     "time": 1413,
     "timeDay": 640,
-    "timeWeek": 1299,
+    "timeWeek": 964,
     "timeMonth": 1733,
     "timeYear": 1449,
     "dailyMinutesDown": {
@@ -362,7 +363,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1080,
-    "timeDay": 918,
+    "timeDay": 647,
     "timeWeek": 1033,
     "timeMonth": 1166,
     "timeYear": 1088,
