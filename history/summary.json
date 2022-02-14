@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.uitgeverijkomma.nl",
     "slug": "uitgeverij-komma",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
     "time": 1702,
     "timeDay": 2547,
     "timeWeek": 1934,
     "timeMonth": 1883,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2022-02-13": 36,
       "2021-10-17": 184
     }
   },
@@ -337,11 +336,11 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1408,
     "timeDay": 1166,
@@ -349,7 +348,7 @@
     "timeMonth": 1715,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2022-02-14": 17,
+      "2022-02-14": 1,
       "2021-12-05": 300
     }
   },
