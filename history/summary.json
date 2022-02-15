@@ -42,9 +42,9 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 1796,
     "timeMonth": 1601,
     "timeYear": 1548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "Centraal Museum",
@@ -67,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3650,
-    "timeDay": 3562,
+    "timeDay": 3451,
     "timeWeek": 3651,
     "timeMonth": 4926,
     "timeYear": 3468,
@@ -338,12 +340,12 @@
     "slug": "teylers-museum",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 1411,
-    "timeDay": 1905,
+    "timeDay": 670,
     "timeWeek": 1231,
     "timeMonth": 1761,
     "timeYear": 1399,
@@ -365,7 +367,7 @@
     "uptimeYear": "99.99%",
     "time": 1078,
     "timeDay": 854,
-    "timeWeek": 940,
+    "timeWeek": 908,
     "timeMonth": 1112,
     "timeYear": 1085,
     "dailyMinutesDown": {
