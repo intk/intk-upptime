@@ -64,18 +64,16 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3652,
     "timeDay": 3953,
     "timeWeek": 3847,
     "timeMonth": 4643,
     "timeYear": 3471,
-    "dailyMinutesDown": {
-      "2022-02-17": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bonnefanten",
@@ -139,9 +137,9 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +148,9 @@
     "timeWeek": 1166,
     "timeMonth": 1167,
     "timeYear": 1322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   },
   {
     "name": "Rietveld Schröderhuis",
