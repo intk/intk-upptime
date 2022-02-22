@@ -137,9 +137,9 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://favicons.githubusercontent.com/www.historischmuseumdenbriel.nl",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +148,9 @@
     "timeWeek": 2199,
     "timeMonth": 1484,
     "timeYear": 1348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "Rietveld Schröderhuis",
