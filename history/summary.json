@@ -338,9 +338,9 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -350,6 +350,7 @@
     "timeMonth": 1207,
     "timeYear": 1396,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2021-12-05": 300
     }
   },
