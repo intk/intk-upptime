@@ -378,9 +378,9 @@
     "url": "https://dev.intk.com",
     "icon": "https://favicons.githubusercontent.com/dev.intk.com",
     "slug": "intk-development-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -390,6 +390,7 @@
     "timeMonth": 668,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2021-06-28": 27,
       "2021-03-08": 23
     }
