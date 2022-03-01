@@ -62,10 +62,10 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3683,
@@ -73,7 +73,9 @@
     "timeWeek": 3867,
     "timeMonth": 4155,
     "timeYear": 3517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 1
+    }
   },
   {
     "name": "Bonnefanten",
@@ -155,10 +157,10 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1256,
@@ -166,7 +168,9 @@
     "timeWeek": 1288,
     "timeMonth": 1367,
     "timeYear": 1265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 1
+    }
   },
   {
     "name": "Cuypershuis",
@@ -340,9 +344,9 @@
     "slug": "teylers-museum",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.65%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.92%",
     "time": 1425,
     "timeDay": 3509,
@@ -350,7 +354,7 @@
     "timeMonth": 1529,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2022-03-01": 121,
+      "2022-03-01": 111,
       "2021-12-05": 300
     }
   },
@@ -386,7 +390,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 660,
-    "timeDay": 661,
+    "timeDay": 824,
     "timeWeek": 662,
     "timeMonth": 678,
     "timeYear": 666,
