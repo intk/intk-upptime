@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1498,
-    "timeDay": 1495,
-    "timeWeek": 1467,
-    "timeMonth": 1531,
-    "timeYear": 1498,
+    "time": 1499,
+    "timeDay": 1581,
+    "timeWeek": 1463,
+    "timeMonth": 1529,
+    "timeYear": 1499,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1715,
-    "timeDay": 1838,
-    "timeWeek": 1817,
-    "timeMonth": 1845,
-    "timeYear": 1715,
+    "time": 1717,
+    "timeDay": 2016,
+    "timeWeek": 1818,
+    "timeMonth": 1847,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2021-10-17": 184
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1564,
-    "timeDay": 1564,
-    "timeWeek": 1574,
-    "timeMonth": 1732,
-    "timeYear": 1564,
+    "time": 1567,
+    "timeDay": 1972,
+    "timeWeek": 1622,
+    "timeMonth": 1726,
+    "timeYear": 1567,
     "dailyMinutesDown": {
       "2022-02-15": 33
     }
@@ -63,19 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3682,
-    "timeDay": 4194,
-    "timeWeek": 3762,
-    "timeMonth": 4142,
-    "timeYear": 3517,
-    "dailyMinutesDown": {
-      "2022-03-05": 108
-    }
+    "timeDay": 3746,
+    "timeWeek": 3674,
+    "timeMonth": 4131,
+    "timeYear": 3524,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bonnefanten",
@@ -89,10 +87,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1180,
-    "timeDay": 1449,
-    "timeWeek": 1202,
-    "timeMonth": 1222,
-    "timeYear": 1227,
+    "timeDay": 1458,
+    "timeWeek": 1208,
+    "timeMonth": 1223,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2022-02-09": 59,
       "2021-11-02": 45
@@ -110,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 980,
-    "timeDay": 982,
-    "timeWeek": 801,
-    "timeMonth": 767,
+    "timeDay": 1073,
+    "timeWeek": 815,
+    "timeMonth": 774,
     "timeYear": 989,
     "dailyMinutesDown": {}
   },
@@ -127,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1574,
-    "timeDay": 2029,
-    "timeWeek": 1751,
-    "timeMonth": 1758,
-    "timeYear": 1574,
+    "time": 1575,
+    "timeDay": 1855,
+    "timeWeek": 1737,
+    "timeMonth": 1759,
+    "timeYear": 1575,
     "dailyMinutesDown": {}
   },
   {
@@ -146,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1317,
-    "timeDay": 1336,
-    "timeWeek": 1248,
-    "timeMonth": 1535,
-    "timeYear": 1356,
+    "timeDay": 1381,
+    "timeWeek": 1231,
+    "timeMonth": 1534,
+    "timeYear": 1357,
     "dailyMinutesDown": {}
   },
   {
@@ -158,19 +156,17 @@
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1257,
-    "timeDay": 1578,
-    "timeWeek": 1310,
+    "timeDay": 1498,
+    "timeWeek": 1300,
     "timeMonth": 1358,
-    "timeYear": 1271,
-    "dailyMinutesDown": {
-      "2022-03-05": 108
-    }
+    "timeYear": 1272,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cuypershuis",
@@ -184,10 +180,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1188,
-    "timeDay": 1496,
-    "timeWeek": 1276,
-    "timeMonth": 1263,
-    "timeYear": 1221,
+    "timeDay": 1458,
+    "timeWeek": 1275,
+    "timeMonth": 1262,
+    "timeYear": 1223,
     "dailyMinutesDown": {}
   },
   {
@@ -202,10 +198,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1875,
-    "timeDay": 2182,
-    "timeWeek": 1845,
-    "timeMonth": 1886,
-    "timeYear": 1896,
+    "timeDay": 1896,
+    "timeWeek": 1843,
+    "timeMonth": 1879,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
@@ -219,11 +215,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2271,
-    "timeDay": 3599,
-    "timeWeek": 2525,
-    "timeMonth": 2421,
-    "timeYear": 2310,
+    "time": 2272,
+    "timeDay": 2849,
+    "timeWeek": 2554,
+    "timeMonth": 2428,
+    "timeYear": 2313,
     "dailyMinutesDown": {}
   },
   {
@@ -237,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1393,
-    "timeDay": 1798,
-    "timeWeek": 1465,
-    "timeMonth": 1451,
-    "timeYear": 1414,
+    "time": 1394,
+    "timeDay": 1825,
+    "timeWeek": 1487,
+    "timeMonth": 1461,
+    "timeYear": 1416,
     "dailyMinutesDown": {
       "2022-01-07": 35,
       "2021-05-24": 34
@@ -259,10 +255,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 926,
-    "timeDay": 1162,
-    "timeWeek": 1076,
-    "timeMonth": 987,
-    "timeYear": 945,
+    "timeDay": 1169,
+    "timeWeek": 1070,
+    "timeMonth": 989,
+    "timeYear": 947,
     "dailyMinutesDown": {}
   },
   {
@@ -277,10 +273,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1045,
-    "timeDay": 1177,
-    "timeWeek": 1064,
-    "timeMonth": 1065,
-    "timeYear": 1064,
+    "timeDay": 1264,
+    "timeWeek": 1061,
+    "timeMonth": 1068,
+    "timeYear": 1065,
     "dailyMinutesDown": {}
   },
   {
@@ -295,10 +291,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 920,
-    "timeDay": 964,
-    "timeWeek": 863,
-    "timeMonth": 871,
-    "timeYear": 954,
+    "timeDay": 1051,
+    "timeWeek": 868,
+    "timeMonth": 873,
+    "timeYear": 956,
     "dailyMinutesDown": {}
   },
   {
@@ -312,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 342,
-    "timeWeek": 254,
-    "timeMonth": 260,
-    "timeYear": 489,
+    "time": 488,
+    "timeDay": 326,
+    "timeWeek": 260,
+    "timeMonth": 261,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -331,10 +327,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1041,
-    "timeDay": 958,
-    "timeWeek": 852,
-    "timeMonth": 1362,
-    "timeYear": 1089,
+    "timeDay": 972,
+    "timeWeek": 844,
+    "timeMonth": 1360,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -348,11 +344,11 @@
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.92%",
-    "time": 1427,
-    "timeDay": 1112,
-    "timeWeek": 2267,
-    "timeMonth": 1557,
-    "timeYear": 1432,
+    "time": 1430,
+    "timeDay": 3222,
+    "timeWeek": 2453,
+    "timeMonth": 1643,
+    "timeYear": 1438,
     "dailyMinutesDown": {
       "2022-03-01": 111,
       "2021-12-05": 300
@@ -369,11 +365,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1077,
-    "timeDay": 1225,
-    "timeWeek": 1031,
-    "timeMonth": 1035,
-    "timeYear": 1093,
+    "time": 1078,
+    "timeDay": 1305,
+    "timeWeek": 1016,
+    "timeMonth": 1031,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2021-05-12": 30
     }
@@ -390,13 +386,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 660,
-    "timeDay": 790,
-    "timeWeek": 646,
+    "timeDay": 818,
+    "timeWeek": 666,
     "timeMonth": 670,
-    "timeYear": 667,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2021-06-28": 27,
-      "2021-03-08": 23
+      "2021-06-28": 27
     }
   }
 ]
