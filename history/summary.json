@@ -64,18 +64,16 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3681,
     "timeDay": 3389,
     "timeWeek": 3611,
     "timeMonth": 4111,
     "timeYear": 3523,
-    "dailyMinutesDown": {
-      "2022-03-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bonnefanten",
@@ -229,9 +227,9 @@
     "url": "https://www.veenkoloniaalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.veenkoloniaalmuseum.nl",
     "slug": "veenkoloniaal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -241,6 +239,7 @@
     "timeMonth": 1456,
     "timeYear": 1416,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2022-01-07": 35,
       "2021-05-24": 34
     }
@@ -347,8 +346,8 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.92%",
     "time": 1428,
-    "timeDay": 770,
-    "timeWeek": 1641,
+    "timeDay": 627,
+    "timeWeek": 1168,
     "timeMonth": 1622,
     "timeYear": 1437,
     "dailyMinutesDown": {
