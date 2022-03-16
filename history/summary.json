@@ -64,10 +64,10 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3685,
@@ -75,7 +75,9 @@
     "timeWeek": 3901,
     "timeMonth": 4168,
     "timeYear": 3547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 1
+    }
   },
   {
     "name": "Bonnefanten",
@@ -292,17 +294,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 563,
     "timeWeek": 1307,
     "timeMonth": 998,
     "timeYear": 968,
-    "dailyMinutesDown": {
-      "2022-03-14": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
