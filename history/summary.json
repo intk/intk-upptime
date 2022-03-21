@@ -42,19 +42,19 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.72%",
-    "time": 1579,
-    "timeDay": 1472,
-    "timeWeek": 1765,
-    "timeMonth": 1706,
-    "timeYear": 1579,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.70%",
+    "time": 1583,
+    "timeDay": 1861,
+    "timeWeek": 1825,
+    "timeMonth": 1724,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2022-03-21": 0,
+      "2022-03-21": 32,
       "2022-03-12": 649,
       "2022-03-11": 86,
       "2022-02-15": 33
@@ -145,18 +145,16 @@
     "slug": "historisch-museum-den-briel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1314,
     "timeDay": 882,
     "timeWeek": 1170,
     "timeMonth": 1241,
     "timeYear": 1366,
-    "dailyMinutesDown": {
-      "2022-03-21": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rietveld Schröderhuis",
@@ -328,10 +326,10 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1038,
@@ -339,7 +337,9 @@
     "timeWeek": 902,
     "timeMonth": 1367,
     "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 1
+    }
   },
   {
     "name": "Teylers Museum",
