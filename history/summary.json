@@ -49,7 +49,7 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.72%",
     "time": 1581,
-    "timeDay": 1735,
+    "timeDay": 1221,
     "timeWeek": 1729,
     "timeMonth": 1697,
     "timeYear": 1581,
@@ -149,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1313,
-    "timeDay": 869,
+    "timeDay": 854,
     "timeWeek": 1102,
-    "timeMonth": 1224,
+    "timeMonth": 1218,
     "timeYear": 1364,
     "dailyMinutesDown": {}
   },
@@ -332,10 +332,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1037,
-    "timeDay": 778,
+    "timeDay": 1036,
     "timeWeek": 848,
     "timeMonth": 1342,
-    "timeYear": 1099,
+    "timeYear": 1100,
     "dailyMinutesDown": {}
   },
   {
@@ -345,12 +345,12 @@
     "slug": "teylers-museum",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "95.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.90%",
     "time": 1429,
-    "timeDay": 2301,
+    "timeDay": 611,
     "timeWeek": 1710,
     "timeMonth": 1727,
     "timeYear": 1459,
@@ -376,7 +376,7 @@
     "timeDay": 648,
     "timeWeek": 919,
     "timeMonth": 1017,
-    "timeYear": 1087,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-05-12": 30
     }
@@ -386,10 +386,10 @@
     "url": "https://dev.intk.com",
     "icon": "https://favicons.githubusercontent.com/dev.intk.com",
     "slug": "intk-development-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 661,
@@ -398,6 +398,7 @@
     "timeMonth": 669,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2022-03-22": 1,
       "2021-06-28": 27
     }
   }
