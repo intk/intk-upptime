@@ -31,7 +31,7 @@
     "time": 1731,
     "timeDay": 2106,
     "timeWeek": 1774,
-    "timeMonth": 1832,
+    "timeMonth": 1824,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2021-10-17": 184
@@ -65,20 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "77.96%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3688,
     "timeDay": 4318,
     "timeWeek": 3523,
     "timeMonth": 3758,
     "timeYear": 3621,
-    "dailyMinutesDown": {
-      "2022-04-01": 109,
-      "2022-03-31": 208
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bonnefanten",
@@ -166,20 +163,17 @@
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "78.06%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1259,
     "timeDay": 1594,
     "timeWeek": 1286,
     "timeMonth": 1300,
     "timeYear": 1280,
-    "dailyMinutesDown": {
-      "2022-04-01": 110,
-      "2022-03-31": 206
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cuypershuis",
@@ -351,18 +345,19 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.teylersmuseum.nl",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.25%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.88%",
     "time": 1444,
-    "timeDay": 7777,
+    "timeDay": 1265,
     "timeWeek": 2322,
-    "timeMonth": 1882,
+    "timeMonth": 1693,
     "timeYear": 1485,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-03-28": 94,
       "2022-03-21": 69,
       "2022-03-18": 55,
