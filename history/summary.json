@@ -255,10 +255,10 @@
     "url": "https://www.kunsthalkade.nl",
     "icon": "https://favicons.githubusercontent.com/www.kunsthalkade.nl",
     "slug": "kunsthal-k-ad-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 932,
@@ -266,7 +266,9 @@
     "timeWeek": 1071,
     "timeMonth": 1031,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 1
+    }
   },
   {
     "name": "Mondriaanhuis",
