@@ -4,11 +4,11 @@
     "url": "https://www.schunck.nl",
     "icon": "https://favicons.githubusercontent.com/www.schunck.nl",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1495,
     "timeDay": 1381,
@@ -16,7 +16,7 @@
     "timeMonth": 1523,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2022-04-13": 21
+      "2022-04-13": 16
     }
   },
   {
