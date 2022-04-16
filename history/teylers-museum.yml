@@ -1,7 +1,7 @@
 url: https://www.teylersmuseum.nl
-status: up
-code: 200
-responseTime: 9634
-lastUpdated: 2022-04-16T10:33:45.299Z
+status: down
+code: 502
+responseTime: 565
+lastUpdated: 2022-04-16T11:41:24.041Z
 startTime: Tue Dec 29 2020 14:34:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
