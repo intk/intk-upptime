@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1495,
     "timeDay": 1616,
-    "timeWeek": 1527,
+    "timeWeek": 1471,
     "timeMonth": 1544,
     "timeYear": 1495,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "time": 1597,
     "timeDay": 1665,
     "timeWeek": 1602,
-    "timeMonth": 1705,
+    "timeMonth": 1688,
     "timeYear": 1597,
     "dailyMinutesDown": {
       "2022-03-12": 649,
@@ -151,7 +151,7 @@
     "time": 1312,
     "timeDay": 1375,
     "timeWeek": 1291,
-    "timeMonth": 1267,
+    "timeMonth": 1280,
     "timeYear": 1373,
     "dailyMinutesDown": {
       "2022-03-24": 23
@@ -294,10 +294,10 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 962,
@@ -305,17 +305,19 @@
     "timeWeek": 960,
     "timeMonth": 1516,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 2
+    }
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/jaarverslag.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
@@ -323,7 +325,9 @@
     "timeWeek": 282,
     "timeMonth": 281,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -339,7 +343,7 @@
     "time": 1034,
     "timeDay": 1053,
     "timeWeek": 963,
-    "timeMonth": 977,
+    "timeMonth": 990,
     "timeYear": 1108,
     "dailyMinutesDown": {}
   },
@@ -352,7 +356,7 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.44%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.86%",
     "time": 1504,
     "timeDay": 1147,
