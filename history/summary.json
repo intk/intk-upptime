@@ -191,7 +191,7 @@
     "timeDay": 1146,
     "timeWeek": 1262,
     "timeMonth": 1863,
-    "timeYear": 1292,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -209,7 +209,7 @@
     "timeDay": 1804,
     "timeWeek": 2074,
     "timeMonth": 2031,
-    "timeYear": 1912,
+    "timeYear": 1913,
     "dailyMinutesDown": {}
   },
   {
@@ -227,7 +227,7 @@
     "timeDay": 1963,
     "timeWeek": 2122,
     "timeMonth": 2391,
-    "timeYear": 2324,
+    "timeYear": 2318,
     "dailyMinutesDown": {
       "2022-04-11": 567,
       "2022-04-10": 528
@@ -335,10 +335,10 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1034,
@@ -346,7 +346,9 @@
     "timeWeek": 935,
     "timeMonth": 987,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-22": 1
+    }
   },
   {
     "name": "Teylers Museum",
