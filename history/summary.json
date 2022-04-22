@@ -335,19 +335,19 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 1034,
-    "timeDay": 903,
-    "timeWeek": 935,
-    "timeMonth": 987,
+    "timeDay": 1059,
+    "timeWeek": 966,
+    "timeMonth": 993,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2022-04-22": 1
+      "2022-04-22": 45
     }
   },
   {
