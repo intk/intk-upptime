@@ -82,10 +82,10 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://favicons.githubusercontent.com/www.bonnefanten.nl",
     "slug": "bonnefanten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1185,
@@ -94,6 +94,7 @@
     "timeMonth": 1264,
     "timeYear": 1258,
     "dailyMinutesDown": {
+      "2022-04-22": 1,
       "2022-02-09": 59,
       "2021-11-02": 45
     }
