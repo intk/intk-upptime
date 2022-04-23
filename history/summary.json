@@ -66,9 +66,9 @@
     "slug": "centraal-museum",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3690,
     "timeDay": 2727,
@@ -76,7 +76,7 @@
     "timeMonth": 3752,
     "timeYear": 3732,
     "dailyMinutesDown": {
-      "2022-04-23": 1
+      "2022-04-23": 10
     }
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,7 +176,9 @@
     "timeWeek": 1420,
     "timeMonth": 1350,
     "timeYear": 1294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   },
   {
     "name": "Cuypershuis",
