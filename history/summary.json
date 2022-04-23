@@ -64,10 +64,10 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3690,
@@ -75,7 +75,9 @@
     "timeWeek": 3700,
     "timeMonth": 3752,
     "timeYear": 3732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-23": 1
+    }
   },
   {
     "name": "Bonnefanten",
@@ -84,12 +86,12 @@
     "slug": "bonnefanten",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "92.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
     "time": 1183,
-    "timeDay": 739,
+    "timeDay": 742,
     "timeWeek": 1093,
     "timeMonth": 1224,
     "timeYear": 1255,
@@ -191,7 +193,7 @@
     "timeDay": 798,
     "timeWeek": 1209,
     "timeMonth": 1847,
-    "timeYear": 1287,
+    "timeYear": 1281,
     "dailyMinutesDown": {}
   },
   {
@@ -227,7 +229,7 @@
     "timeDay": 1676,
     "timeWeek": 2076,
     "timeMonth": 2358,
-    "timeYear": 2316,
+    "timeYear": 2317,
     "dailyMinutesDown": {
       "2022-04-11": 567,
       "2022-04-10": 528
@@ -337,12 +339,12 @@
     "slug": "het-markiezenhof",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1033,
-    "timeDay": 863,
+    "timeDay": 511,
     "timeWeek": 905,
     "timeMonth": 978,
     "timeYear": 1108,
@@ -358,12 +360,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.86%",
     "time": 1504,
     "timeDay": 609,
-    "timeWeek": 1672,
+    "timeWeek": 948,
     "timeMonth": 2188,
     "timeYear": 1565,
     "dailyMinutesDown": {
