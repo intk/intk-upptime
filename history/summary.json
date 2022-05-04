@@ -340,10 +340,10 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1030,
@@ -352,6 +352,7 @@
     "timeMonth": 937,
     "timeYear": 1111,
     "dailyMinutesDown": {
+      "2022-05-04": 1,
       "2022-04-22": 45
     }
   },
@@ -389,10 +390,10 @@
     "icon": "https://favicons.githubusercontent.com/www.intk.com",
     "slug": "intk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1077,
     "timeDay": 900,
@@ -400,7 +401,6 @@
     "timeMonth": 1044,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2022-05-04": 6,
       "2021-05-12": 30
     }
   },
