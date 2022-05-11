@@ -189,10 +189,10 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1251,
@@ -200,43 +200,48 @@
     "timeWeek": 1247,
     "timeMonth": 1234,
     "timeYear": 1286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 2
+    }
   },
   {
     "name": "Historiehuis",
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1899,
+    "time": 1898,
     "timeDay": 1809,
     "timeWeek": 1902,
     "timeMonth": 1928,
     "timeYear": 1917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 1
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 2303,
     "timeDay": 2219,
     "timeWeek": 2286,
-    "timeMonth": 2203,
+    "timeMonth": 2188,
     "timeYear": 2328,
     "dailyMinutesDown": {
+      "2022-05-11": 1,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
@@ -406,7 +411,7 @@
     "uptimeYear": "99.99%",
     "time": 1077,
     "timeDay": 992,
-    "timeWeek": 923,
+    "timeWeek": 948,
     "timeMonth": 1015,
     "timeYear": 1088,
     "dailyMinutesDown": {
