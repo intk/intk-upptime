@@ -13,7 +13,7 @@
     "time": 1496,
     "timeDay": 1314,
     "timeWeek": 1493,
-    "timeMonth": 1514,
+    "timeMonth": 1500,
     "timeYear": 1496,
     "dailyMinutesDown": {}
   },
@@ -208,28 +208,30 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1897,
+    "time": 1896,
     "timeDay": 1922,
     "timeWeek": 1854,
     "timeMonth": 1916,
     "timeYear": 1916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-14": 1
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 2302,
@@ -238,6 +240,7 @@
     "timeMonth": 2193,
     "timeYear": 2329,
     "dailyMinutesDown": {
+      "2022-05-14": 1,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
