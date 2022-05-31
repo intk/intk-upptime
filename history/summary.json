@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1513,
-    "timeDay": 1482,
+    "timeDay": 1538,
     "timeWeek": 1466,
     "timeMonth": 1633,
     "timeYear": 1513,
@@ -294,10 +294,10 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.zeeuwsmuseum.nl",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 955,
@@ -305,7 +305,9 @@
     "timeWeek": 675,
     "timeMonth": 810,
     "timeYear": 1028,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 1
+    }
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
@@ -337,7 +339,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1025,
-    "timeDay": 1169,
+    "timeDay": 909,
     "timeWeek": 773,
     "timeMonth": 864,
     "timeYear": 1109,
