@@ -45,9 +45,9 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -57,6 +57,7 @@
     "timeMonth": 1555,
     "timeYear": 1593,
     "dailyMinutesDown": {
+      "2022-06-10": 0,
       "2022-03-12": 649,
       "2022-03-11": 86,
       "2022-02-15": 33
@@ -124,9 +125,9 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -136,6 +137,7 @@
     "timeMonth": 1505,
     "timeYear": 1610,
     "dailyMinutesDown": {
+      "2022-06-10": 0,
       "2022-03-12": 649,
       "2022-03-11": 85
     }
