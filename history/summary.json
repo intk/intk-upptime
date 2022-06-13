@@ -66,18 +66,20 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3689,
-    "timeDay": 3790,
+    "timeDay": 3843,
     "timeWeek": 3544,
     "timeMonth": 3454,
     "timeYear": 3907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "Bonnefanten",
@@ -340,7 +342,7 @@
     "slug": "het-markiezenhof",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "91.13%",
+    "uptimeDay": "93.93%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
