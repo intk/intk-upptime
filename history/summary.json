@@ -4,11 +4,11 @@
     "url": "https://www.schunck.nl",
     "icon": "https://favicons.githubusercontent.com/www.schunck.nl",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1522,
     "timeDay": 1637,
@@ -16,7 +16,7 @@
     "timeMonth": 1574,
     "timeYear": 1522,
     "dailyMinutesDown": {
-      "2022-06-15": 9
+      "2022-06-15": 0
     }
   },
   {
@@ -46,18 +46,17 @@
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.79%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.81%",
     "time": 1592,
     "timeDay": 1943,
     "timeWeek": 1572,
     "timeMonth": 1555,
     "timeYear": 1592,
     "dailyMinutesDown": {
-      "2022-06-10": 42,
       "2022-03-12": 649,
       "2022-03-11": 86,
       "2022-02-15": 33
@@ -78,7 +77,7 @@
     "timeDay": 3752,
     "timeWeek": 3785,
     "timeMonth": 3539,
-    "timeYear": 3915,
+    "timeYear": 3916,
     "dailyMinutesDown": {}
   },
   {
@@ -117,7 +116,7 @@
     "timeDay": 790,
     "timeWeek": 784,
     "timeMonth": 699,
-    "timeYear": 900,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   },
   {
@@ -126,18 +125,17 @@
     "icon": "https://favicons.githubusercontent.com/www.gevangenpoort.nl",
     "slug": "de-gevangenpoort",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.85%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.86%",
     "time": 1607,
     "timeDay": 1373,
     "timeWeek": 1443,
     "timeMonth": 1493,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2022-06-10": 42,
       "2022-03-12": 649,
       "2022-03-11": 85
     }
@@ -157,7 +155,7 @@
     "timeDay": 1239,
     "timeWeek": 1246,
     "timeMonth": 1135,
-    "timeYear": 1362,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2022-03-24": 23
     }
@@ -186,22 +184,17 @@
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "54.41%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1253,
     "timeDay": 855,
     "timeWeek": 1241,
     "timeMonth": 1105,
-    "timeYear": 1279,
-    "dailyMinutesDown": {
-      "2022-06-15": 353,
-      "2022-06-14": 303,
-      "2022-06-12": 27,
-      "2022-06-11": 158
-    }
+    "timeYear": 1278,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Historiehuis",
@@ -209,21 +202,17 @@
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "54.44%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1937,
     "timeDay": 1421,
     "timeWeek": 4672,
     "timeMonth": 2346,
-    "timeYear": 1952,
-    "dailyMinutesDown": {
-      "2022-06-15": 353,
-      "2022-06-14": 303,
-      "2022-06-11": 151
-    }
+    "timeYear": 1951,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Archief Roermond",
@@ -231,20 +220,17 @@
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "54.48%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.79%",
     "time": 2335,
     "timeDay": 1664,
     "timeWeek": 4235,
     "timeMonth": 2632,
-    "timeYear": 2364,
+    "timeYear": 2361,
     "dailyMinutesDown": {
-      "2022-06-15": 353,
-      "2022-06-14": 302,
-      "2022-06-11": 151,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
@@ -284,7 +270,7 @@
     "timeDay": 1014,
     "timeWeek": 1057,
     "timeMonth": 863,
-    "timeYear": 960,
+    "timeYear": 959,
     "dailyMinutesDown": {}
   },
   {
@@ -320,7 +306,7 @@
     "timeDay": 878,
     "timeWeek": 924,
     "timeMonth": 818,
-    "timeYear": 1028,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -347,19 +333,17 @@
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1027,
     "timeDay": 917,
     "timeWeek": 848,
     "timeMonth": 854,
-    "timeYear": 1106,
-    "dailyMinutesDown": {
-      "2022-06-12": 128
-    }
+    "timeYear": 1107,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teylers Museum",
@@ -376,7 +360,7 @@
     "timeDay": 900,
     "timeWeek": 940,
     "timeMonth": 831,
-    "timeYear": 1383,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2022-05-01": 38,
       "2022-04-26": 67,
@@ -404,7 +388,7 @@
     "timeDay": 955,
     "timeWeek": 1080,
     "timeMonth": 1033,
-    "timeYear": 1089,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
