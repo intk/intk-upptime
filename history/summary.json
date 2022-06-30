@@ -44,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/www.haagshistorischmuseum.nl",
     "slug": "haags-historisch-museum",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 1678,
     "timeDay": 1139,
     "timeWeek": 4702,
@@ -184,10 +184,10 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1254,
@@ -195,17 +195,19 @@
     "timeWeek": 1183,
     "timeMonth": 1089,
     "timeYear": 1273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "Historiehuis",
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1937,
@@ -213,17 +215,19 @@
     "timeWeek": 2032,
     "timeMonth": 2484,
     "timeYear": 1953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 1
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 2327,
@@ -232,6 +236,7 @@
     "timeMonth": 2667,
     "timeYear": 2366,
     "dailyMinutesDown": {
+      "2022-06-30": 1,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
