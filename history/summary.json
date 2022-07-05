@@ -46,7 +46,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.80%",
     "time": 1676,
@@ -127,7 +127,7 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.84%",
     "time": 1603,
@@ -266,10 +266,10 @@
     "url": "https://www.kunsthalkade.nl",
     "icon": "https://favicons.githubusercontent.com/www.kunsthalkade.nl",
     "slug": "kunsthal-k-ad-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
@@ -277,26 +277,28 @@
     "timeWeek": 862,
     "timeMonth": 889,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-05": 1
+    }
   },
   {
     "name": "Mondriaanhuis",
     "url": "https://www.mondriaanhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.mondriaanhuis.nl",
     "slug": "mondriaanhuis",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1053,
-    "timeDay": 1026,
-    "timeWeek": 976,
-    "timeMonth": 978,
-    "timeYear": 1074,
+    "timeDay": 1127,
+    "timeWeek": 1007,
+    "timeMonth": 986,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-07-05": 1
+      "2022-07-05": 24
     }
   },
   {
