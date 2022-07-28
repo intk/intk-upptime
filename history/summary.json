@@ -52,7 +52,7 @@
     "time": 1671,
     "timeDay": 1905,
     "timeWeek": 1576,
-    "timeMonth": 2411,
+    "timeMonth": 1579,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2022-03-12": 649,
@@ -65,9 +65,9 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 3134,
     "timeMonth": 3447,
     "timeYear": 3917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Bonnefanten",
@@ -114,7 +116,7 @@
     "timeDay": 1165,
     "timeWeek": 1011,
     "timeMonth": 1070,
-    "timeYear": 912,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -131,7 +133,7 @@
     "time": 1603,
     "timeDay": 2064,
     "timeWeek": 1549,
-    "timeMonth": 1593,
+    "timeMonth": 1585,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2022-03-12": 649,
