@@ -13,7 +13,7 @@
     "time": 1546,
     "timeDay": 1764,
     "timeWeek": 1734,
-    "timeMonth": 1657,
+    "timeMonth": 1658,
     "timeYear": 1546,
     "dailyMinutesDown": {}
   },
@@ -65,18 +65,20 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3536,
+    "time": 3537,
     "timeDay": 1057,
     "timeWeek": 2605,
     "timeMonth": 3270,
     "timeYear": 3899,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-30": 2
+    }
   },
   {
     "name": "Bonnefanten",
@@ -163,18 +165,20 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1290,
+    "time": 1289,
     "timeDay": 868,
     "timeWeek": 1193,
     "timeMonth": 1194,
     "timeYear": 1314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-30": 1
+    }
   },
   {
     "name": "Cuypershuis",
@@ -190,7 +194,7 @@
     "time": 1253,
     "timeDay": 793,
     "timeWeek": 1116,
-    "timeMonth": 1150,
+    "timeMonth": 1137,
     "timeYear": 1265,
     "dailyMinutesDown": {}
   },
@@ -208,7 +212,7 @@
     "time": 1943,
     "timeDay": 1537,
     "timeWeek": 1905,
-    "timeMonth": 1975,
+    "timeMonth": 1959,
     "timeYear": 1955,
     "dailyMinutesDown": {}
   },
@@ -226,7 +230,7 @@
     "time": 2348,
     "timeDay": 2064,
     "timeWeek": 2467,
-    "timeMonth": 2536,
+    "timeMonth": 2526,
     "timeYear": 2383,
     "dailyMinutesDown": {
       "2022-04-11": 567,
