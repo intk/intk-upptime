@@ -185,54 +185,59 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.cuypershuis.nl",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1254,
+    "time": 1255,
     "timeDay": 1159,
     "timeWeek": 1106,
     "timeMonth": 1123,
     "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 2
+    }
   },
   {
     "name": "Historiehuis",
     "url": "https://www.historiehuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.historiehuis.nl",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1945,
+    "time": 1946,
     "timeDay": 2196,
     "timeWeek": 1925,
     "timeMonth": 1941,
     "timeYear": 1957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 1
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 2349,
+    "time": 2350,
     "timeDay": 2514,
     "timeWeek": 2428,
     "timeMonth": 2504,
     "timeYear": 2384,
     "dailyMinutesDown": {
+      "2022-08-01": 1,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
