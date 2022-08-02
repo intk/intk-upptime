@@ -65,10 +65,10 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 3526,
@@ -77,6 +77,7 @@
     "timeMonth": 3122,
     "timeYear": 3883,
     "dailyMinutesDown": {
+      "2022-08-02": 1,
       "2022-07-30": 36
     }
   },
@@ -165,18 +166,19 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://favicons.githubusercontent.com/www.rietveldschroderhuis.nl",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1291,
+    "time": 1292,
     "timeDay": 1412,
     "timeWeek": 1247,
     "timeMonth": 1205,
     "timeYear": 1314,
     "dailyMinutesDown": {
+      "2022-08-02": 1,
       "2022-07-30": 34
     }
   },
