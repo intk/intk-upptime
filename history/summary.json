@@ -4,10 +4,10 @@
     "url": "https://www.schunck.nl",
     "icon": "https://favicons.githubusercontent.com/www.schunck.nl",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1548,
@@ -15,7 +15,9 @@
     "timeWeek": 1751,
     "timeMonth": 1661,
     "timeYear": 1548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 1
+    }
   },
   {
     "name": "Uitgeverij Komma",
@@ -72,7 +74,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3517,
-    "timeDay": 1042,
+    "timeDay": 891,
     "timeWeek": 1714,
     "timeMonth": 2994,
     "timeYear": 3870,
@@ -170,7 +172,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1292,
-    "timeDay": 1043,
+    "timeDay": 883,
     "timeWeek": 1240,
     "timeMonth": 1206,
     "timeYear": 1312,
@@ -338,7 +340,7 @@
     "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 1069,
-    "timeWeek": 905,
+    "timeWeek": 992,
     "timeMonth": 864,
     "timeYear": 1100,
     "dailyMinutesDown": {}
