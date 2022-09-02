@@ -75,7 +75,7 @@
     "time": 3426,
     "timeDay": 829,
     "timeWeek": 895,
-    "timeMonth": 1105,
+    "timeMonth": 1103,
     "timeYear": 3629,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 1285,
     "timeDay": 848,
     "timeWeek": 910,
-    "timeMonth": 1041,
+    "timeMonth": 1036,
     "timeYear": 1284,
     "dailyMinutesDown": {}
   },
@@ -333,19 +333,19 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://favicons.githubusercontent.com/www.markiezenhof.nl",
     "slug": "het-markiezenhof",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 599,
-    "timeWeek": 583,
-    "timeMonth": 1104,
-    "timeYear": 1115,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 1056,
+    "timeDay": 1505,
+    "timeWeek": 812,
+    "timeMonth": 1141,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2022-09-02": 1
+      "2022-09-02": 44
     }
   },
   {
