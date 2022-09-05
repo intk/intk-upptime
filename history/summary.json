@@ -66,19 +66,19 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://favicons.githubusercontent.com/www.centraalmuseum.nl",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3459,
+    "time": 3462,
     "timeDay": 12307,
     "timeWeek": 3824,
     "timeMonth": 1821,
     "timeYear": 3657,
     "dailyMinutesDown": {
-      "2022-09-05": 13
+      "2022-09-05": 1
     }
   },
   {
