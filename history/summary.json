@@ -224,10 +224,10 @@
     "url": "https://www.archiefroermond.nl",
     "icon": "https://favicons.githubusercontent.com/www.archiefroermond.nl",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 2361,
@@ -236,6 +236,7 @@
     "timeMonth": 2305,
     "timeYear": 2385,
     "dailyMinutesDown": {
+      "2022-09-09": 1,
       "2022-04-11": 567,
       "2022-04-10": 528
     }
@@ -360,12 +361,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.84%",
     "time": 1412,
     "timeDay": 4507,
-    "timeWeek": 1281,
+    "timeWeek": 1375,
     "timeMonth": 1329,
     "timeYear": 1372,
     "dailyMinutesDown": {
