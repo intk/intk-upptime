@@ -392,19 +392,19 @@
     "url": "https://www.intk.com/en",
     "icon": "https://favicons.githubusercontent.com/www.intk.com",
     "slug": "intk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 820,
-    "timeWeek": 928,
-    "timeMonth": 883,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 1055,
+    "timeDay": 882,
+    "timeWeek": 937,
+    "timeMonth": 887,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-09-21": 1
+      "2022-09-21": 58
     }
   },
   {
