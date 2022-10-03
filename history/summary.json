@@ -46,18 +46,19 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.haagshistorischmuseum.nl.ico",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1686,
-    "timeDay": 1446,
-    "timeWeek": 1754,
-    "timeMonth": 1795,
-    "timeYear": 1693,
+    "time": 1683,
+    "timeDay": 931,
+    "timeWeek": 1587,
+    "timeMonth": 1750,
+    "timeYear": 1690,
     "dailyMinutesDown": {
+      "2022-10-03": 0,
       "2022-03-12": 649,
       "2022-03-11": 86,
       "2022-02-15": 33
@@ -163,7 +164,7 @@
     "timeDay": 862,
     "timeWeek": 1185,
     "timeMonth": 1174,
-    "timeYear": 1317,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2022-03-24": 23
     }
