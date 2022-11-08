@@ -28,7 +28,7 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 1797,
@@ -213,19 +213,19 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1961,
-    "timeDay": 1854,
-    "timeWeek": 1870,
-    "timeMonth": 1923,
-    "timeYear": 1984,
+    "time": 1960,
+    "timeDay": 1675,
+    "timeWeek": 1824,
+    "timeMonth": 1910,
+    "timeYear": 1983,
     "dailyMinutesDown": {
-      "2022-11-08": 1
+      "2022-11-08": 6
     }
   },
   {
