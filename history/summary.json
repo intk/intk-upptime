@@ -50,14 +50,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.haagshistorischmuseum.nl.ico",
     "slug": "haags-historisch-museum",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.63%",
+    "uptimeWeek": "93.96%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.44%",
     "time": 1765,
     "timeDay": 1898,
-    "timeWeek": 2632,
+    "timeWeek": 1427,
     "timeMonth": 2639,
     "timeYear": 1814,
     "dailyMinutesDown": {
@@ -139,12 +139,12 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.60%",
+    "uptimeWeek": "96.94%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.44%",
     "time": 1641,
     "timeDay": 2008,
-    "timeWeek": 1438,
+    "timeWeek": 1375,
     "timeMonth": 2173,
     "timeYear": 1680,
     "dailyMinutesDown": {
@@ -317,10 +317,10 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 991,
@@ -328,7 +328,9 @@
     "timeWeek": 739,
     "timeMonth": 751,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-20": 1
+    }
   },
   {
     "name": "Zeeuws Museum Jaarverslag",
