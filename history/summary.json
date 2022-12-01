@@ -80,10 +80,10 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3335,
@@ -91,7 +91,9 @@
     "timeWeek": 4158,
     "timeMonth": 1918,
     "timeYear": 3137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 1
+    }
   },
   {
     "name": "Bonnefanten",
@@ -393,7 +395,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.70%",
     "time": 1554,
-    "timeDay": 833,
+    "timeDay": 1152,
     "timeWeek": 899,
     "timeMonth": 1137,
     "timeYear": 1617,
@@ -448,7 +450,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.82%",
