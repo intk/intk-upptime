@@ -80,19 +80,19 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 3335,
-    "timeDay": 5607,
-    "timeWeek": 4158,
-    "timeMonth": 1918,
-    "timeYear": 3137,
+    "time": 3337,
+    "timeDay": 4753,
+    "timeWeek": 4132,
+    "timeMonth": 1978,
+    "timeYear": 3139,
     "dailyMinutesDown": {
-      "2022-12-01": 1
+      "2022-12-01": 11
     }
   },
   {
