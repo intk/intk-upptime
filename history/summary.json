@@ -191,19 +191,19 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.rietveldschroderhuis.nl.ico",
     "slug": "rietveld-schroederhuis",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1257,
-    "timeDay": 1533,
-    "timeWeek": 1203,
-    "timeMonth": 1095,
-    "timeYear": 1236,
+    "time": 1269,
+    "timeDay": 4461,
+    "timeWeek": 1976,
+    "timeMonth": 1298,
+    "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-12-07": 0
+      "2022-12-07": 9
     }
   },
   {
