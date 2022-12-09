@@ -4,9 +4,9 @@
     "url": "https://www.schunck.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.schunck.nl.ico",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 2611,
     "timeYear": 1662,
     "dailyMinutesDown": {
+      "2022-12-09": 1,
       "2022-12-08": 32,
       "2022-12-01": 20,
       "2022-11-14": 45,
@@ -396,7 +397,7 @@
     "uptimeYear": "99.75%",
     "time": 1543,
     "timeDay": 641,
-    "timeWeek": 799,
+    "timeWeek": 756,
     "timeMonth": 1103,
     "timeYear": 1604,
     "dailyMinutesDown": {
