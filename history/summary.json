@@ -142,7 +142,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gevangenpoort.nl.ico",
     "slug": "de-gevangenpoort",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "98.24%",
@@ -230,18 +230,20 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1962,
+    "time": 1959,
     "timeDay": 2375,
     "timeWeek": 2084,
     "timeMonth": 1929,
     "timeYear": 1970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-20": 1
+    }
   },
   {
     "name": "Archief Roermond",
@@ -398,7 +400,7 @@
     "uptimeYear": "99.52%",
     "time": 1540,
     "timeDay": 1155,
-    "timeWeek": 887,
+    "timeWeek": 918,
     "timeMonth": 1167,
     "timeYear": 1608,
     "dailyMinutesDown": {
