@@ -230,19 +230,19 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1959,
-    "timeDay": 2375,
-    "timeWeek": 2084,
-    "timeMonth": 1929,
+    "time": 1961,
+    "timeDay": 2223,
+    "timeWeek": 2082,
+    "timeMonth": 1934,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2022-12-20": 1
+      "2022-12-20": 5
     }
   },
   {
