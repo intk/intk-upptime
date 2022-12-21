@@ -108,7 +108,7 @@
     "uptimeYear": "99.98%",
     "time": 1259,
     "timeDay": 1106,
-    "timeWeek": 1108,
+    "timeWeek": 1178,
     "timeMonth": 1403,
     "timeYear": 1220,
     "dailyMinutesDown": {
@@ -289,18 +289,20 @@
     "url": "https://www.kunsthalkade.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.kunsthalkade.nl.ico",
     "slug": "kunsthal-k-ad-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
+    "time": 913,
     "timeDay": 867,
     "timeWeek": 958,
     "timeMonth": 841,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-21": 1
+    }
   },
   {
     "name": "Mondriaanhuis",
