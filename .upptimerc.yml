@@ -1,6 +1,8 @@
 owner: andreesg # Your GitHub username
 repo: intk-upptime # Your Github repository name
 sites:
+  - name: Museum Hilversum
+    url: https://new.museumhilversum.nl
   - name: SCHUNCK
     url: https://www.schunck.nl
   - name: Uitgeverij Komma
