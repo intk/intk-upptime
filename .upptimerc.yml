@@ -1,4 +1,4 @@
-owner: andreesg # Your GitHub username
+owner: intk # Your GitHub username
 repo: intk-upptime # Your Github repository name
 sites:
   - name: Museum Hilversum
@@ -58,7 +58,7 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 status-website:
-  cname: status.intk.com
+  baseUrl: /intk-upptime
   logoUrl: https://old.intk.com/logo.png
   name: INTK
   introTitle: "Monitor the uptime of INTK projects"
