@@ -122,7 +122,7 @@
     "timeDay": 1182,
     "timeWeek": 969,
     "timeMonth": 997,
-    "timeYear": 1063,
+    "timeYear": 1064,
     "dailyMinutesDown": {}
   },
   {
@@ -292,7 +292,7 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -310,7 +310,7 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jaarverslag.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 1133,
     "timeDay": 888,
-    "timeWeek": 1175,
+    "timeWeek": 840,
     "timeMonth": 1229,
     "timeYear": 1058,
     "dailyMinutesDown": {}
@@ -353,9 +353,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1575,
-    "timeDay": 5368,
+    "timeDay": 10696,
     "timeWeek": 3180,
-    "timeMonth": 1630,
+    "timeMonth": 1673,
     "timeYear": 1654,
     "dailyMinutesDown": {}
   },
