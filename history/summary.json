@@ -382,17 +382,17 @@
     "url": "https://dev.intk.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 791,
-    "timeWeek": 602,
-    "timeMonth": 617,
-    "timeYear": 627,
+    "timeDay": 780,
+    "timeWeek": 623,
+    "timeMonth": 622,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   }
 ]
