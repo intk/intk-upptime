@@ -310,18 +310,20 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jaarverslag.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 257,
-    "timeWeek": 245,
-    "timeMonth": 253,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 236,
+    "timeWeek": 238,
+    "timeMonth": 251,
+    "timeYear": 301,
+    "dailyMinutesDown": {
+      "2023-01-17": 1
+    }
   },
   {
     "name": "Het Markiezenhof",
