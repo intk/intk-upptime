@@ -58,10 +58,10 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.haagshistorischmuseum.nl.ico",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1768,
@@ -69,7 +69,9 @@
     "timeWeek": 1575,
     "timeMonth": 1831,
     "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 1
+    }
   },
   {
     "name": "Centraal Museum",
@@ -130,10 +132,10 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.gevangenpoort.nl.ico",
     "slug": "de-gevangenpoort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1660,
@@ -141,7 +143,9 @@
     "timeWeek": 1534,
     "timeMonth": 1503,
     "timeYear": 1702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 1
+    }
   },
   {
     "name": "Historisch Museum Den Briel",
