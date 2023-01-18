@@ -58,19 +58,19 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.haagshistorischmuseum.nl.ico",
     "slug": "haags-historisch-museum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1768,
-    "timeDay": 1641,
-    "timeWeek": 1575,
-    "timeMonth": 1831,
-    "timeYear": 1844,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "77.53%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.94%",
+    "time": 1767,
+    "timeDay": 1445,
+    "timeWeek": 1503,
+    "timeMonth": 1818,
+    "timeYear": 1843,
     "dailyMinutesDown": {
-      "2023-01-18": 1
+      "2023-01-18": 324
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.gevangenpoort.nl.ico",
     "slug": "de-gevangenpoort",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "77.56%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.94%",
     "time": 1660,
-    "timeDay": 2035,
-    "timeWeek": 1534,
-    "timeMonth": 1503,
+    "timeDay": 1813,
+    "timeWeek": 1540,
+    "timeMonth": 1505,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-01-18": 1
+      "2023-01-18": 323
     }
   },
   {
