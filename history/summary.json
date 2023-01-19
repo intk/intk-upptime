@@ -296,19 +296,19 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1801,
-    "timeWeek": 1614,
-    "timeMonth": 1662,
-    "timeYear": 997,
+    "time": 1023,
+    "timeDay": 1632,
+    "timeWeek": 1597,
+    "timeMonth": 1657,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-01-19": 1
+      "2023-01-19": 14
     }
   },
   {
