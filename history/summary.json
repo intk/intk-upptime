@@ -40,19 +40,19 @@
     "url": "https://www.uitgeverijkomma.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.uitgeverijkomma.nl.ico",
     "slug": "uitgeverij-komma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1812,
-    "timeDay": 1827,
-    "timeWeek": 1939,
-    "timeMonth": 1924,
+    "timeDay": 1820,
+    "timeWeek": 1923,
+    "timeMonth": 1921,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2023-01-20": 1
+      "2023-01-20": 24
     }
   },
   {
