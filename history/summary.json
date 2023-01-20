@@ -40,10 +40,10 @@
     "url": "https://www.uitgeverijkomma.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.uitgeverijkomma.nl.ico",
     "slug": "uitgeverij-komma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1812,
@@ -51,7 +51,9 @@
     "timeWeek": 1939,
     "timeMonth": 1924,
     "timeYear": 1849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-20": 1
+    }
   },
   {
     "name": "Haags Historisch Museum",
