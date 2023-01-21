@@ -60,10 +60,10 @@
     "url": "https://www.haagshistorischmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.haagshistorischmuseum.nl.ico",
     "slug": "haags-historisch-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.79%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.94%",
     "time": 1768,
@@ -72,6 +72,7 @@
     "timeMonth": 1832,
     "timeYear": 1846,
     "dailyMinutesDown": {
+      "2023-01-21": 1,
       "2023-01-18": 324
     }
   },
@@ -134,9 +135,9 @@
     "url": "https://www.gevangenpoort.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.gevangenpoort.nl.ico",
     "slug": "de-gevangenpoort",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.94%",
@@ -146,6 +147,7 @@
     "timeMonth": 1525,
     "timeYear": 1701,
     "dailyMinutesDown": {
+      "2023-01-21": 1,
       "2023-01-18": 323
     }
   },
