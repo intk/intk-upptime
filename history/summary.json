@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1809,
     "timeDay": 2345,
-    "timeWeek": 4487,
+    "timeWeek": 2336,
     "timeMonth": 2573,
     "timeYear": 1848,
     "dailyMinutesDown": {}
@@ -191,19 +191,19 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.cuypershuis.nl.ico",
     "slug": "cuypershuis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 1262,
-    "timeWeek": 1140,
-    "timeMonth": 1093,
-    "timeYear": 1192,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "76.94%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.94%",
+    "time": 1209,
+    "timeDay": 1047,
+    "timeWeek": 1101,
+    "timeMonth": 1085,
+    "timeYear": 1191,
     "dailyMinutesDown": {
-      "2023-01-23": 2
+      "2023-01-23": 332
     }
   },
   {
@@ -211,19 +211,19 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1959,
-    "timeDay": 1847,
-    "timeWeek": 1968,
-    "timeMonth": 1910,
-    "timeYear": 1966,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.94%",
+    "time": 1958,
+    "timeDay": 1622,
+    "timeWeek": 1897,
+    "timeMonth": 1895,
+    "timeYear": 1964,
     "dailyMinutesDown": {
-      "2023-01-23": 1
+      "2023-01-23": 331
     }
   },
   {
@@ -231,19 +231,19 @@
     "url": "https://www.archiefroermond.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.archiefroermond.nl.ico",
     "slug": "archief-roermond",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2384,
-    "timeDay": 1906,
-    "timeWeek": 1897,
-    "timeMonth": 2230,
-    "timeYear": 2394,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.94%",
+    "time": 2382,
+    "timeDay": 1710,
+    "timeWeek": 1849,
+    "timeMonth": 2209,
+    "timeYear": 2392,
     "dailyMinutesDown": {
-      "2023-01-23": 0
+      "2023-01-23": 331
     }
   },
   {
@@ -315,7 +315,7 @@
     "timeDay": 1758,
     "timeWeek": 1657,
     "timeMonth": 1656,
-    "timeYear": 1010,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2023-01-20": 25
     }
@@ -407,7 +407,7 @@
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 622,
-    "timeWeek": 608,
+    "timeWeek": 633,
     "timeMonth": 621,
     "timeYear": 625,
     "dailyMinutesDown": {}
