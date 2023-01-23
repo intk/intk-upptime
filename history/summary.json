@@ -13,7 +13,7 @@
     "time": 1297,
     "timeDay": 1300,
     "timeWeek": 1351,
-    "timeMonth": 1297,
+    "timeMonth": 1338,
     "timeYear": 1297,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 1809,
     "timeDay": 2345,
-    "timeWeek": 2336,
-    "timeMonth": 2573,
+    "timeWeek": 1970,
+    "timeMonth": 2549,
     "timeYear": 1848,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1815,
     "timeDay": 2478,
     "timeWeek": 2038,
-    "timeMonth": 1944,
+    "timeMonth": 1938,
     "timeYear": 1847,
     "dailyMinutesDown": {
       "2023-01-20": 24
@@ -69,7 +69,7 @@
     "time": 1766,
     "timeDay": 1397,
     "timeWeek": 1607,
-    "timeMonth": 1863,
+    "timeMonth": 1875,
     "timeYear": 1845,
     "dailyMinutesDown": {
       "2023-01-21": 23,
@@ -89,8 +89,8 @@
     "uptimeYear": "100.00%",
     "time": 3349,
     "timeDay": 3528,
-    "timeWeek": 3635,
-    "timeMonth": 3752,
+    "timeWeek": 3580,
+    "timeMonth": 3758,
     "timeYear": 3108,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 1033,
     "timeDay": 948,
     "timeWeek": 977,
-    "timeMonth": 1006,
+    "timeMonth": 1004,
     "timeYear": 1069,
     "dailyMinutesDown": {}
   },
@@ -144,7 +144,7 @@
     "time": 1671,
     "timeDay": 1729,
     "timeWeek": 2155,
-    "timeMonth": 1672,
+    "timeMonth": 1675,
     "timeYear": 1712,
     "dailyMinutesDown": {
       "2023-01-18": 323
@@ -164,7 +164,7 @@
     "time": 1210,
     "timeDay": 1269,
     "timeWeek": 1164,
-    "timeMonth": 1119,
+    "timeMonth": 1118,
     "timeYear": 1197,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 1256,
     "timeDay": 1172,
     "timeWeek": 1188,
-    "timeMonth": 1158,
+    "timeMonth": 1156,
     "timeYear": 1235,
     "dailyMinutesDown": {}
   },
@@ -200,7 +200,7 @@
     "time": 1209,
     "timeDay": 1047,
     "timeWeek": 1101,
-    "timeMonth": 1085,
+    "timeMonth": 1084,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2023-01-23": 332
@@ -220,7 +220,7 @@
     "time": 1958,
     "timeDay": 1622,
     "timeWeek": 1897,
-    "timeMonth": 1895,
+    "timeMonth": 1896,
     "timeYear": 1964,
     "dailyMinutesDown": {
       "2023-01-23": 331
@@ -240,7 +240,7 @@
     "time": 2382,
     "timeDay": 1710,
     "timeWeek": 1849,
-    "timeMonth": 2209,
+    "timeMonth": 2190,
     "timeYear": 2392,
     "dailyMinutesDown": {
       "2023-01-23": 331
@@ -278,7 +278,7 @@
     "time": 907,
     "timeDay": 880,
     "timeWeek": 910,
-    "timeMonth": 865,
+    "timeMonth": 864,
     "timeYear": 878,
     "dailyMinutesDown": {}
   },
@@ -296,7 +296,7 @@
     "time": 1023,
     "timeDay": 1009,
     "timeWeek": 991,
-    "timeMonth": 978,
+    "timeMonth": 977,
     "timeYear": 989,
     "dailyMinutesDown": {}
   },
@@ -314,7 +314,7 @@
     "time": 1032,
     "timeDay": 1758,
     "timeWeek": 1657,
-    "timeMonth": 1656,
+    "timeMonth": 1652,
     "timeYear": 1005,
     "dailyMinutesDown": {
       "2023-01-20": 25
@@ -334,7 +334,7 @@
     "time": 293,
     "timeDay": 289,
     "timeWeek": 258,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-01-17": 17
@@ -354,7 +354,7 @@
     "time": 1136,
     "timeDay": 919,
     "timeWeek": 854,
-    "timeMonth": 1034,
+    "timeMonth": 1040,
     "timeYear": 1055,
     "dailyMinutesDown": {}
   },
@@ -363,18 +363,20 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.teylersmuseum.nl.ico",
     "slug": "teylers-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1573,
+    "time": 1574,
     "timeDay": 891,
     "timeWeek": 911,
-    "timeMonth": 1614,
+    "timeMonth": 1634,
     "timeYear": 1645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "INTK",
@@ -390,7 +392,7 @@
     "time": 1009,
     "timeDay": 980,
     "timeWeek": 946,
-    "timeMonth": 922,
+    "timeMonth": 920,
     "timeYear": 961,
     "dailyMinutesDown": {}
   },
@@ -408,7 +410,7 @@
     "time": 641,
     "timeDay": 622,
     "timeWeek": 633,
-    "timeMonth": 621,
+    "timeMonth": 619,
     "timeYear": 625,
     "dailyMinutesDown": {}
   }
