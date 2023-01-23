@@ -191,54 +191,60 @@
     "url": "https://www.cuypershuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.cuypershuis.nl.ico",
     "slug": "cuypershuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
+    "time": 1210,
     "timeDay": 1262,
     "timeWeek": 1140,
     "timeMonth": 1093,
     "timeYear": 1192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 2
+    }
   },
   {
     "name": "Historiehuis",
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1958,
+    "time": 1959,
     "timeDay": 1847,
     "timeWeek": 1968,
     "timeMonth": 1910,
     "timeYear": 1966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "Archief Roermond",
     "url": "https://www.archiefroermond.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.archiefroermond.nl.ico",
     "slug": "archief-roermond",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2383,
+    "time": 2384,
     "timeDay": 1906,
     "timeWeek": 1897,
     "timeMonth": 2230,
     "timeYear": 2394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   },
   {
     "name": "Veenkoloniaal Museum",
