@@ -354,19 +354,19 @@
     "url": "https://www.markiezenhof.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.markiezenhof.nl.ico",
     "slug": "het-markiezenhof",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1473,
-    "timeWeek": 972,
-    "timeMonth": 1070,
-    "timeYear": 1058,
+    "time": 1151,
+    "timeDay": 5091,
+    "timeWeek": 1939,
+    "timeMonth": 1276,
+    "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-01-26": 1
+      "2023-01-26": 11
     }
   },
   {
