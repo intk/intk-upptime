@@ -24,9 +24,9 @@
     "url": "https://www.schunck.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.schunck.nl.ico",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1814,
     "timeMonth": 2514,
     "timeYear": 1853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-27": 0
+    }
   },
   {
     "name": "Uitgeverij Komma",
