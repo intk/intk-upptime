@@ -98,7 +98,7 @@
     "timeDay": 1193,
     "timeWeek": 2463,
     "timeMonth": 3473,
-    "timeYear": 3060,
+    "timeYear": 3007,
     "dailyMinutesDown": {}
   },
   {
@@ -316,10 +316,10 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1045,
@@ -328,6 +328,7 @@
     "timeMonth": 1687,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2023-01-29": 2,
       "2023-01-25": 18,
       "2023-01-20": 25
     }
@@ -337,10 +338,10 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jaarverslag.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 293,
@@ -349,6 +350,7 @@
     "timeMonth": 258,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2023-01-29": 1,
       "2023-01-17": 17
     }
   },
@@ -384,7 +386,7 @@
     "time": 1565,
     "timeDay": 896,
     "timeWeek": 922,
-    "timeMonth": 1626,
+    "timeMonth": 1651,
     "timeYear": 1591,
     "dailyMinutesDown": {
       "2023-01-25": 42
