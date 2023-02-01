@@ -399,19 +399,19 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 1075,
-    "timeWeek": 916,
-    "timeMonth": 951,
-    "timeYear": 955,
+    "time": 1053,
+    "timeDay": 12232,
+    "timeWeek": 3725,
+    "timeMonth": 1652,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2023-02-01": 1
+      "2023-02-01": 16
     }
   },
   {
