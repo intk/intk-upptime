@@ -320,9 +320,9 @@
     "slug": "zeeuws-museum",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 1095,
     "timeDay": 1801,
@@ -330,7 +330,6 @@
     "timeMonth": 2267,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2023-02-01": 8,
       "2023-01-29": 21,
       "2023-01-25": 18,
       "2023-01-20": 25
@@ -400,10 +399,10 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1007,
@@ -411,7 +410,9 @@
     "timeWeek": 916,
     "timeMonth": 951,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 1
+    }
   },
   {
     "name": "INTK development server",
