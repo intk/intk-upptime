@@ -68,7 +68,7 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "98.57%",
-    "uptimeWeek": "95.13%",
+    "uptimeWeek": "96.00%",
     "uptimeMonth": "96.36%",
     "uptimeYear": "99.70%",
     "time": 1773,
@@ -152,7 +152,7 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "98.60%",
-    "uptimeWeek": "95.14%",
+    "uptimeWeek": "96.01%",
     "uptimeMonth": "96.42%",
     "uptimeYear": "99.70%",
     "time": 1687,
@@ -175,10 +175,10 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historischmuseumdenbriel.nl.ico",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1205,
@@ -186,7 +186,9 @@
     "timeWeek": 1153,
     "timeMonth": 1166,
     "timeYear": 1197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Rietveld Schröderhuis",
