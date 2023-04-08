@@ -313,18 +313,20 @@
     "url": "https://www.kunsthalkade.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.kunsthalkade.nl.ico",
     "slug": "kunsthal-k-ad-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 946,
-    "timeWeek": 864,
-    "timeMonth": 797,
-    "timeYear": 848,
-    "dailyMinutesDown": {}
+    "time": 882,
+    "timeDay": 733,
+    "timeWeek": 821,
+    "timeMonth": 788,
+    "timeYear": 847,
+    "dailyMinutesDown": {
+      "2023-04-08": 1
+    }
   },
   {
     "name": "Mondriaanhuis",
@@ -480,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-04-08": 962,
+      "2023-04-08": 984,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
