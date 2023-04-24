@@ -45,6 +45,10 @@ sites:
     url: https://www.intk.com/en
   - name: INTK development server
     url: https://dev.intk.com
+  - name: New Zeeuws Museum
+    url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
+  - name: Vanabbe Museum
+    url: https://vanabbemuseum.nl
 
 user-agent: andreesg
 
