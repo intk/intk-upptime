@@ -483,18 +483,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "90.24%",
+    "uptime": "90.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.94%",
+    "uptimeYear": "76.89%",
     "time": 628,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-05-11": 1101,
+      "2023-05-11": 1322,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -587,28 +587,30 @@
     "url": "https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/",
     "icon": "https://icons.duckduckgo.com/ip3/new.zeeuwsmuseum.nl.ico",
     "slug": "new-zeeuws-museum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 771,
     "timeDay": 806,
     "timeWeek": 873,
     "timeMonth": 771,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-11": 1
+    }
   },
   {
     "name": "Vanabbe Museum",
     "url": "https://vanabbemuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vanabbemuseum.nl.ico",
     "slug": "vanabbe-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2616,
@@ -616,6 +618,8 @@
     "timeWeek": 2569,
     "timeMonth": 2616,
     "timeYear": 2616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-11": 1
+    }
   }
 ]
