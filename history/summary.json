@@ -494,7 +494,7 @@
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-05-11": 1322,
+      "2023-05-11": 1336,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -587,19 +587,19 @@
     "url": "https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/",
     "icon": "https://icons.duckduckgo.com/ip3/new.zeeuwsmuseum.nl.ico",
     "slug": "new-zeeuws-museum",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 771,
-    "timeDay": 806,
-    "timeWeek": 873,
-    "timeMonth": 771,
-    "timeYear": 771,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 781,
+    "timeDay": 893,
+    "timeWeek": 885,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-05-11": 1
+      "2023-05-11": 15
     }
   },
   {
@@ -607,19 +607,19 @@
     "url": "https://vanabbemuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vanabbemuseum.nl.ico",
     "slug": "vanabbe-museum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2616,
-    "timeDay": 5599,
-    "timeWeek": 2569,
-    "timeMonth": 2616,
-    "timeYear": 2616,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2653,
+    "timeDay": 4536,
+    "timeWeek": 2659,
+    "timeMonth": 2653,
+    "timeYear": 2653,
     "dailyMinutesDown": {
-      "2023-05-11": 1
+      "2023-05-11": 15
     }
   }
 ]
