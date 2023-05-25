@@ -363,11 +363,11 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1330,
     "timeDay": 1733,
@@ -375,7 +375,7 @@
     "timeMonth": 2055,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2023-05-25": 3,
+      "2023-05-25": 4,
       "2023-05-05": 1,
       "2023-04-28": 2,
       "2023-02-03": 43,
@@ -466,19 +466,19 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.61%",
-    "time": 990,
+    "time": 989,
     "timeDay": 871,
     "timeWeek": 1004,
     "timeMonth": 962,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2023-05-25": 2,
+      "2023-05-25": 4,
       "2023-02-02": 1227,
       "2023-02-01": 815
     }
@@ -500,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-05-25": 266,
+      "2023-05-25": 285,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -607,10 +607,10 @@
     "url": "https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/",
     "icon": "https://icons.duckduckgo.com/ip3/new.zeeuwsmuseum.nl.ico",
     "slug": "new-zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
@@ -619,7 +619,7 @@
     "timeMonth": 782,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-05-25": 1
+      "2023-05-25": 2
     }
   },
   {
