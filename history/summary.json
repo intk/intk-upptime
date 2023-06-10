@@ -76,7 +76,7 @@
     "timeDay": 1120,
     "timeWeek": 3568,
     "timeMonth": 1935,
-    "timeYear": 2112,
+    "timeYear": 2114,
     "dailyMinutesDown": {
       "2023-06-09": 20,
       "2023-05-03": 1,
@@ -98,19 +98,19 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2719,
-    "timeDay": 0,
-    "timeWeek": 1162,
-    "timeMonth": 2027,
-    "timeYear": 2148,
+    "time": 2745,
+    "timeDay": 17800,
+    "timeWeek": 3539,
+    "timeMonth": 2505,
+    "timeYear": 2185,
     "dailyMinutesDown": {
-      "2023-06-10": 1,
+      "2023-06-10": 10,
       "2023-05-11": 7,
       "2023-03-01": 6
     }
@@ -156,7 +156,7 @@
     "timeDay": 736,
     "timeWeek": 818,
     "timeMonth": 961,
-    "timeYear": 1142,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-05-16": 34
     }
@@ -176,7 +176,7 @@
     "timeDay": 1049,
     "timeWeek": 1309,
     "timeMonth": 1308,
-    "timeYear": 1884,
+    "timeYear": 1885,
     "dailyMinutesDown": {
       "2023-05-03": 1,
       "2023-02-24": 84,
@@ -268,7 +268,7 @@
     "timeDay": 1391,
     "timeWeek": 2949,
     "timeMonth": 2022,
-    "timeYear": 2201,
+    "timeYear": 2202,
     "dailyMinutesDown": {
       "2023-04-08": 10,
       "2023-04-04": 85,
@@ -294,7 +294,7 @@
     "timeDay": 1576,
     "timeWeek": 1865,
     "timeMonth": 1823,
-    "timeYear": 2338,
+    "timeYear": 2339,
     "dailyMinutesDown": {
       "2023-04-29": 1,
       "2023-04-10": 19,
@@ -341,7 +341,7 @@
     "timeDay": 603,
     "timeWeek": 813,
     "timeMonth": 807,
-    "timeYear": 836,
+    "timeYear": 835,
     "dailyMinutesDown": {}
   },
   {
@@ -379,7 +379,7 @@
     "timeDay": 1339,
     "timeWeek": 1976,
     "timeMonth": 2100,
-    "timeYear": 1518,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2023-05-30": 1,
       "2023-05-25": 4,
@@ -453,7 +453,7 @@
     "timeDay": 609,
     "timeWeek": 1330,
     "timeMonth": 945,
-    "timeYear": 1577,
+    "timeYear": 1578,
     "dailyMinutesDown": {
       "2023-06-09": 2,
       "2023-05-08": 0,
@@ -511,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-06-10": 1394,
+      "2023-06-10": 1405,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
