@@ -100,9 +100,9 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2745,
     "timeDay": 17800,
@@ -110,7 +110,6 @@
     "timeMonth": 2505,
     "timeYear": 2185,
     "dailyMinutesDown": {
-      "2023-06-10": 10,
       "2023-05-11": 7,
       "2023-03-01": 6
     }
@@ -504,14 +503,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.66%",
+    "uptimeYear": "68.64%",
     "time": 627,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-06-10": 1405,
+      "2023-06-11": 67,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
