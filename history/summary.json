@@ -529,14 +529,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.34%",
+    "uptimeYear": "60.33%",
     "time": 620,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-07-11": 499,
+      "2023-07-11": 533,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -736,19 +736,19 @@
     "url": "https://www.utrechtsciencepark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.utrechtsciencepark.nl.ico",
     "slug": "utrechtsciencepark",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 2563,
-    "timeDay": 3184,
-    "timeWeek": 2563,
-    "timeMonth": 2563,
-    "timeYear": 2563,
+    "status": "up",
+    "uptime": "97.69%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 2058,
+    "timeDay": 2117,
+    "timeWeek": 2058,
+    "timeMonth": 2058,
+    "timeYear": 2058,
     "dailyMinutesDown": {
-      "2023-07-11": 1
+      "2023-07-11": 34
     }
   }
 ]
