@@ -49,6 +49,8 @@ sites:
     url: https://vanabbemuseum.nl
   - name : Utrechtsciencepark
     url: https://www.utrechtsciencepark.nl
+  - name: New Zeeuws Museum
+    url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
 
 user-agent: andreesg
 
