@@ -378,19 +378,19 @@
     "url": "https://www.kunsthalkade.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.kunsthalkade.nl.ico",
     "slug": "kunsthal-k-ad-e",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 1155,
-    "timeWeek": 878,
-    "timeMonth": 963,
+    "time": 852,
+    "timeDay": 1108,
+    "timeWeek": 901,
+    "timeMonth": 966,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-08-19": 1
+      "2023-08-19": 6
     }
   },
   {
@@ -575,7 +575,7 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-08-19": 1353,
+      "2023-08-19": 1359,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
