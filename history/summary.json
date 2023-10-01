@@ -13,7 +13,7 @@
     "time": 1334,
     "timeDay": 1619,
     "timeWeek": 1410,
-    "timeMonth": 1425,
+    "timeMonth": 1436,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2023-06-13": 318,
@@ -36,7 +36,7 @@
     "time": 1784,
     "timeDay": 1063,
     "timeWeek": 1109,
-    "timeMonth": 1778,
+    "timeMonth": 1793,
     "timeYear": 1840,
     "dailyMinutesDown": {
       "2023-09-26": 73,
@@ -62,7 +62,7 @@
     "time": 1928,
     "timeDay": 1783,
     "timeWeek": 1677,
-    "timeMonth": 1710,
+    "timeMonth": 1718,
     "timeYear": 1966,
     "dailyMinutesDown": {
       "2023-08-20": 384,
@@ -88,7 +88,7 @@
     "time": 1965,
     "timeDay": 1469,
     "timeWeek": 1463,
-    "timeMonth": 1603,
+    "timeMonth": 1605,
     "timeYear": 1977,
     "dailyMinutesDown": {
       "2023-09-05": 48,
@@ -124,12 +124,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 2165,
     "timeDay": 1149,
     "timeWeek": 4085,
-    "timeMonth": 2837,
+    "timeMonth": 2537,
     "timeYear": 2059,
     "dailyMinutesDown": {
       "2023-09-27": 5,
@@ -161,7 +161,7 @@
     "time": 1151,
     "timeDay": 1276,
     "timeWeek": 1018,
-    "timeMonth": 1066,
+    "timeMonth": 1069,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-09-26": 1,
@@ -194,7 +194,7 @@
     "time": 1095,
     "timeDay": 1171,
     "timeWeek": 1052,
-    "timeMonth": 1024,
+    "timeMonth": 1027,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-05-16": 34
@@ -214,7 +214,7 @@
     "time": 1750,
     "timeDay": 1593,
     "timeWeek": 1442,
-    "timeMonth": 1401,
+    "timeMonth": 1411,
     "timeYear": 1844,
     "dailyMinutesDown": {
       "2023-08-02": 58,
@@ -244,17 +244,17 @@
     "slug": "historisch-museum-den-briel",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.55%",
     "time": 1186,
     "timeDay": 4528,
     "timeWeek": 2247,
-    "timeMonth": 1475,
+    "timeMonth": 1523,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2023-09-30": 22,
+      "2023-09-30": 15,
       "2023-09-17": 51,
       "2023-09-05": 48,
       "2023-08-31": 49,
@@ -286,7 +286,7 @@
     "time": 1135,
     "timeDay": 1505,
     "timeWeek": 1231,
-    "timeMonth": 950,
+    "timeMonth": 959,
     "timeYear": 1123,
     "dailyMinutesDown": {}
   },
@@ -304,7 +304,7 @@
     "time": 1124,
     "timeDay": 1393,
     "timeWeek": 1263,
-    "timeMonth": 1278,
+    "timeMonth": 1297,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2023-08-02": 57,
@@ -330,7 +330,7 @@
     "time": 2081,
     "timeDay": 1870,
     "timeWeek": 1763,
-    "timeMonth": 1763,
+    "timeMonth": 1774,
     "timeYear": 2106,
     "dailyMinutesDown": {
       "2023-09-12": 18,
@@ -362,7 +362,7 @@
     "time": 2269,
     "timeDay": 2334,
     "timeWeek": 2112,
-    "timeMonth": 2533,
+    "timeMonth": 2554,
     "timeYear": 2212,
     "dailyMinutesDown": {
       "2023-09-23": 2,
@@ -413,7 +413,7 @@
     "time": 853,
     "timeDay": 1071,
     "timeWeek": 895,
-    "timeMonth": 881,
+    "timeMonth": 889,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2023-09-21": 14
@@ -433,7 +433,7 @@
     "time": 950,
     "timeDay": 1097,
     "timeWeek": 975,
-    "timeMonth": 969,
+    "timeMonth": 978,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2023-08-08": 0,
@@ -454,7 +454,7 @@
     "time": 1726,
     "timeDay": 1832,
     "timeWeek": 2514,
-    "timeMonth": 2565,
+    "timeMonth": 2538,
     "timeYear": 1992,
     "dailyMinutesDown": {
       "2023-09-26": 1,
@@ -492,7 +492,7 @@
     "time": 430,
     "timeDay": 824,
     "timeWeek": 822,
-    "timeMonth": 709,
+    "timeMonth": 705,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2023-08-08": 0,
@@ -517,7 +517,7 @@
     "time": 1007,
     "timeDay": 910,
     "timeWeek": 846,
-    "timeMonth": 838,
+    "timeMonth": 841,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2023-08-23": 46,
@@ -542,7 +542,7 @@
     "time": 1485,
     "timeDay": 1328,
     "timeWeek": 1113,
-    "timeMonth": 1310,
+    "timeMonth": 1319,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2023-09-13": 2,
@@ -578,7 +578,7 @@
     "time": 994,
     "timeDay": 1116,
     "timeWeek": 927,
-    "timeMonth": 906,
+    "timeMonth": 911,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2023-09-05": 48,
@@ -603,15 +603,16 @@
     "uptime": "77.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "37.97%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "37.96%",
     "time": 614,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-09-30": 1425,
+      "2023-10-01": 54,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -855,7 +856,7 @@
     "time": 2722,
     "timeDay": 1815,
     "timeWeek": 2966,
-    "timeMonth": 2878,
+    "timeMonth": 2927,
     "timeYear": 2722,
     "dailyMinutesDown": {
       "2023-08-24": 3,
@@ -886,7 +887,7 @@
     "time": 1342,
     "timeDay": 1428,
     "timeWeek": 1214,
-    "timeMonth": 1250,
+    "timeMonth": 1260,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2023-09-26": 52,
@@ -912,7 +913,7 @@
     "time": 765,
     "timeDay": 889,
     "timeWeek": 796,
-    "timeMonth": 796,
+    "timeMonth": 793,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2023-08-08": 0,
