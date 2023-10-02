@@ -17,8 +17,6 @@ sites:
     url: https://www.hetpark.nl
   - name: De Gevangenpoort
     url: https://www.gevangenpoort.nl
-  - name: Historisch Museum Den Briel
-    url: https://www.historischmuseumdenbriel.nl
   - name: Rietveld Schröderhuis
     url: https://www.rietveldschroderhuis.nl
   - name: Cuypershuis
@@ -29,8 +27,6 @@ sites:
     url: https://www.archiefroermond.nl
   - name: Veenkoloniaal Museum
     url: https://www.veenkoloniaalmuseum.nl
-  - name: Kunsthal KAdE
-    url: https://www.kunsthalkade.nl
   - name: Mondriaanhuis
     url: https://www.mondriaanhuis.nl
   - name: Zeeuws Museum
