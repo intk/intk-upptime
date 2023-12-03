@@ -1,7 +1,7 @@
 url: https://www.utrechtsciencepark.nl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-03T05:24:12.611Z
+status: up
+code: 200
+responseTime: 1601
+lastUpdated: 2023-12-03T08:12:17.628Z
 startTime: 2023-07-10T08:01:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
