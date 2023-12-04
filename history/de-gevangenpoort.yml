@@ -1,7 +1,7 @@
 url: https://www.gevangenpoort.nl
-status: up
-code: 200
-responseTime: 5026
-lastUpdated: 2023-12-03T23:12:43.561Z
+status: down
+code: 502
+responseTime: 827
+lastUpdated: 2023-12-04T02:01:47.103Z
 startTime: 2021-06-15T12:36:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
