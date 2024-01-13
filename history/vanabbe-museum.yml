@@ -1,7 +1,7 @@
 url: https://vanabbemuseum.nl
-status: up
-code: 200
-responseTime: 1623
-lastUpdated: 2024-01-12T23:12:54.999Z
+status: down
+code: 502
+responseTime: 647
+lastUpdated: 2024-01-13T16:56:49.446Z
 startTime: 2023-04-24T15:03:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
