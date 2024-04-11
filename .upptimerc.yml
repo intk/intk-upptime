@@ -33,8 +33,6 @@ sites:
     url: http://jaarverslag.zeeuwsmuseum.nl
   - name: Het Markiezenhof
     url: https://www.markiezenhof.nl
-  - name: Teylers Museum
-    url: https://www.teylersmuseum.nl
   - name: INTK
     url: https://www.intk.com/en
   - name: INTK development server
