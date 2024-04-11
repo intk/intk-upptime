@@ -43,6 +43,8 @@ sites:
     url: https://www.utrechtsciencepark.nl
   - name: New Zeeuws Museum
     url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
+  - name: Teylers Museum
+    url: https://www.teylersmuseum.nl
 
 user-agent: andreesg
 
