@@ -1,7 +1,7 @@
 url: https://www.archiefroermond.nl
-status: up
-code: 200
-responseTime: 1777
-lastUpdated: 2024-04-20T23:11:53.333Z
+status: down
+code: 502
+responseTime: 554
+lastUpdated: 2024-04-21T01:02:09.134Z
 startTime: 2020-12-29T14:34:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
