@@ -1,7 +1,7 @@
 url: https://www.historiehuis.nl
-status: up
-code: 200
-responseTime: 1827
-lastUpdated: 2024-04-20T23:11:51.312Z
+status: down
+code: 502
+responseTime: 550
+lastUpdated: 2024-04-21T01:02:06.968Z
 startTime: 2020-12-29T14:34:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
