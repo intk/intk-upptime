@@ -1,7 +1,7 @@
 url: https://www.rietveldschroderhuis.nl
-status: up
-code: 200
-responseTime: 1616
-lastUpdated: 2024-04-28T23:12:11.098Z
+status: down
+code: 502
+responseTime: 553
+lastUpdated: 2024-04-29T01:02:06.427Z
 startTime: 2020-12-29T14:34:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
