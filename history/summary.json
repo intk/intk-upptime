@@ -247,7 +247,7 @@
     "timeDay": 676,
     "timeWeek": 1911,
     "timeMonth": 1121,
-    "timeYear": 981,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2024-05-14": 42
     }
@@ -685,7 +685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-16": 640,
+      "2024-05-16": 702,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -1057,11 +1057,11 @@
     "url": "https://vanabbemuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vanabbemuseum.nl.ico",
     "slug": "vanabbe-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 2798,
     "timeDay": 1577,
@@ -1069,6 +1069,7 @@
     "timeMonth": 2360,
     "timeYear": 2813,
     "dailyMinutesDown": {
+      "2024-05-16": 1,
       "2024-04-24": 2,
       "2024-04-16": 66,
       "2024-04-11": 2,
