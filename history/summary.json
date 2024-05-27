@@ -464,19 +464,19 @@
     "url": "https://www.veenkoloniaalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.veenkoloniaalmuseum.nl.ico",
     "slug": "veenkoloniaal-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1296,
-    "timeDay": 1116,
-    "timeWeek": 1093,
-    "timeMonth": 1158,
+    "time": 1295,
+    "timeDay": 1231,
+    "timeWeek": 1124,
+    "timeMonth": 1164,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2024-05-27": 1
+      "2024-05-27": 3
     }
   },
   {
@@ -676,7 +676,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "62.54%",
+    "uptime": "62.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -687,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-27": 1054,
+      "2024-05-27": 1061,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
