@@ -43,7 +43,7 @@
     "timeDay": 1214,
     "timeWeek": 1371,
     "timeMonth": 1591,
-    "timeYear": 1698,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2024-06-11": 61,
       "2024-04-29": 56,
@@ -115,18 +115,19 @@
     "url": "https://www.centraalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.73%",
-    "time": 2173,
+    "time": 2174,
     "timeDay": 606,
-    "timeWeek": 3181,
+    "timeWeek": 3522,
     "timeMonth": 3676,
-    "timeYear": 2323,
+    "timeYear": 2317,
     "dailyMinutesDown": {
+      "2024-06-11": 1,
       "2024-06-05": 5,
       "2024-06-04": 6,
       "2024-06-02": 18,
@@ -252,7 +253,7 @@
     "timeDay": 777,
     "timeWeek": 1660,
     "timeMonth": 1284,
-    "timeYear": 989,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-05-14": 42
     }
@@ -319,7 +320,7 @@
     "timeDay": 1004,
     "timeWeek": 1052,
     "timeMonth": 1208,
-    "timeYear": 1192,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-06-11": 61,
       "2024-05-16": 78,
@@ -347,7 +348,7 @@
     "timeDay": 886,
     "timeWeek": 938,
     "timeMonth": 1028,
-    "timeYear": 1136,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2024-05-23": 1,
       "2024-04-29": 56,
@@ -388,7 +389,7 @@
     "timeDay": 1506,
     "timeWeek": 1598,
     "timeMonth": 1688,
-    "timeYear": 1763,
+    "timeYear": 1762,
     "dailyMinutesDown": {
       "2024-06-02": 1,
       "2024-05-12": 2,
@@ -482,7 +483,7 @@
     "timeDay": 960,
     "timeWeek": 1067,
     "timeMonth": 1167,
-    "timeYear": 1285,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2024-05-27": 3
     }
@@ -584,7 +585,7 @@
     "timeDay": 545,
     "timeWeek": 579,
     "timeMonth": 621,
-    "timeYear": 681,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-04-25": 437,
       "2024-02-20": 25,
@@ -607,7 +608,7 @@
     "timeDay": 937,
     "timeWeek": 939,
     "timeMonth": 1019,
-    "timeYear": 898,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2023-08-23": 46,
       "2023-08-08": 1
@@ -684,7 +685,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "61.82%",
+    "uptime": "61.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -695,7 +696,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 125,
+      "2024-06-11": 1393,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1172,7 +1173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.teylersmuseum.nl.ico",
     "slug": "teylers-museum",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1181,7 +1182,7 @@
     "timeDay": 293,
     "timeWeek": 410,
     "timeMonth": 483,
-    "timeYear": 1047,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-06-03": 0,
       "2024-05-14": 0,
