@@ -1,7 +1,7 @@
 url: https://www.museumhilversum.nl
-status: up
-code: 200
-responseTime: 1291
-lastUpdated: 2024-06-20T23:15:22.838Z
+status: down
+code: 502
+responseTime: 521
+lastUpdated: 2024-06-21T06:59:37.557Z
 startTime: 2022-12-23T09:02:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
