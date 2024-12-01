@@ -1,7 +1,7 @@
 url: https://www.zeeuwsmuseum.nl
-status: up
-code: 200
-responseTime: 3261
-lastUpdated: 2024-11-30T23:15:18.381Z
+status: down
+code: 502
+responseTime: 437
+lastUpdated: 2024-12-01T04:02:32.403Z
 startTime: 2020-12-29T14:34:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
