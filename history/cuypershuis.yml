@@ -1,7 +1,7 @@
 url: https://www.cuypershuis.nl
-status: up
-code: 200
-responseTime: 872
-lastUpdated: 2024-11-30T23:15:09.496Z
+status: down
+code: 500
+responseTime: 3599
+lastUpdated: 2024-12-01T04:01:52.700Z
 startTime: 2020-12-29T14:34:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
