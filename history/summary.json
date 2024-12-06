@@ -110,17 +110,18 @@
     "slug": "bonnefanten",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1667,
     "timeDay": 1233,
     "timeWeek": 1208,
     "timeMonth": 1712,
     "timeYear": 1682,
     "dailyMinutesDown": {
-      "2024-12-05": 1,
+      "2024-12-06": 68,
+      "2024-12-05": 3,
       "2024-11-21": 32,
       "2024-10-26": 25,
       "2024-10-24": 26,
@@ -632,7 +633,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "54.17%",
+    "uptime": "54.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -643,7 +644,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 1439,
+      "2024-12-06": 68,
+      "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -1006,8 +1008,7 @@
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
-      "2023-12-08": 1440,
-      "2023-12-07": 1440
+      "2023-12-08": 1440
     }
   },
   {
