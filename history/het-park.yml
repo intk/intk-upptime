@@ -1,7 +1,7 @@
 url: https://www.hetpark.nl
-status: up
-code: 200
-responseTime: 763
-lastUpdated: 2024-12-12T23:16:39.587Z
+status: down
+code: 500
+responseTime: 821
+lastUpdated: 2024-12-13T12:24:23.550Z
 startTime: 2020-12-29T14:34:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
