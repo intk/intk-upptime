@@ -1,7 +1,7 @@
 url: https://www.bonnefanten.nl
-status: up
-code: 200
-responseTime: 631
-lastUpdated: 2024-12-17T10:42:24.957Z
+status: down
+code: 502
+responseTime: 420
+lastUpdated: 2024-12-17T11:16:15.535Z
 startTime: 2020-12-29T14:34:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
