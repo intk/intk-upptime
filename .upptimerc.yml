@@ -9,8 +9,6 @@ sites:
     url: https://www.haagshistorischmuseum.nl
   - name: Bonnefanten
     url: https://www.bonnefanten.nl
-  - name: Het Park
-    url: https://www.hetpark.nl
   - name: De Gevangenpoort
     url: https://www.gevangenpoort.nl
   - name: Cuypershuis
