@@ -13,8 +13,6 @@ sites:
     url: https://www.hetpark.nl
   - name: De Gevangenpoort
     url: https://www.gevangenpoort.nl
-  - name: Rietveld Schröderhuis
-    url: https://www.rietveldschroderhuis.nl
   - name: Cuypershuis
     url: https://www.cuypershuis.nl
   - name: Historiehuis
@@ -33,16 +31,12 @@ sites:
     url: https://www.markiezenhof.nl
   - name: INTK
     url: https://www.intk.com/en
-  - name: INTK development server
-    url: https://dev.intk.com
   - name: Vanabbe Museum
     url: https://vanabbemuseum.nl
   - name : Utrechtsciencepark
     url: https://www.utrechtsciencepark.nl
   - name: New Zeeuws Museum
     url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
-  - name: Teylers Museum
-    url: https://www.teylersmuseum.nl
 
 user-agent: andreesg
 
