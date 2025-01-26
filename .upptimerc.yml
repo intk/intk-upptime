@@ -45,7 +45,10 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  # uptime: "*/5 * * * *"
+  # Run every 5 minutes during hour 0 (midnight),
+  # and hours 5 through 23, skipping 01:00-04:59
+  uptime: "*/5 0,5-23 * * *"
 
 status-website:
   baseUrl: /intk-upptime
