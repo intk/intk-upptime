@@ -587,7 +587,7 @@
     "timeDay": 1576,
     "timeWeek": 3285,
     "timeMonth": 2431,
-    "timeYear": 2745,
+    "timeYear": 2742,
     "dailyMinutesDown": {
       "2025-01-26": 19,
       "2025-01-21": 37,
@@ -648,9 +648,9 @@
     "url": "https://www.utrechtsciencepark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.utrechtsciencepark.nl.ico",
     "slug": "utrechtsciencepark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "80.29%",
     "uptimeMonth": "95.38%",
     "uptimeYear": "99.45%",
@@ -660,6 +660,7 @@
     "timeMonth": 1075,
     "timeYear": 1138,
     "dailyMinutesDown": {
+      "2025-03-28": 1,
       "2025-03-24": 503,
       "2025-03-23": 1440,
       "2025-03-22": 44,
