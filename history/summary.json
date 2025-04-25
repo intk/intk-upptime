@@ -90,10 +90,10 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.bonnefanten.nl.ico",
     "slug": "bonnefanten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "87.58%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "87.57%",
     "uptimeMonth": "84.34%",
     "uptimeYear": "97.75%",
     "time": 1924,
@@ -194,7 +194,7 @@
       "2024-09-06": 23,
       "2024-08-29": 77,
       "2024-08-26": 16,
-      "2024-08-25": 37
+      "2024-08-25": 18
     }
   },
   {
