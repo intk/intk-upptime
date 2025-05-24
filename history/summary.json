@@ -90,17 +90,16 @@
     "slug": "bonnefanten",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "87.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "87.22%",
     "uptimeYear": "96.80%",
     "time": 1936,
-    "timeDay": 1910,
+    "timeDay": 1995,
     "timeWeek": 1713,
     "timeMonth": 2084,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2025-05-24": 10,
       "2025-05-23": 34,
       "2025-05-20": 41,
       "2025-05-18": 276,
@@ -188,7 +187,7 @@
       "2024-12-26": 17,
       "2024-12-24": 21,
       "2024-12-18": 17,
-      "2024-12-17": 32
+      "2024-12-17": 34
     }
   },
   {
@@ -625,10 +624,10 @@
     "url": "https://www.utrechtsciencepark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.utrechtsciencepark.nl.ico",
     "slug": "utrechtsciencepark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.36%",
     "time": 1141,
@@ -637,6 +636,7 @@
     "timeMonth": 1119,
     "timeYear": 1130,
     "dailyMinutesDown": {
+      "2025-05-24": 1,
       "2025-05-16": 18,
       "2025-05-13": 99,
       "2025-05-11": 18,
