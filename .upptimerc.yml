@@ -3,8 +3,6 @@ repo: intk-upptime # Your Github repository name
 sites:
   - name: Museum Hilversum
     url: https://www.museumhilversum.nl
-  - name: Uitgeverij Komma
-    url: https://www.uitgeverijkomma.nl
   - name: Haags Historisch Museum
     url: https://www.haagshistorischmuseum.nl
   - name: Bonnefanten
@@ -19,8 +17,6 @@ sites:
     url: https://www.archiefroermond.nl
   - name: Veenkoloniaal Museum
     url: https://www.veenkoloniaalmuseum.nl
-  - name: Mondriaanhuis
-    url: https://www.mondriaanhuis.nl
   - name: Zeeuws Museum
     url: https://www.zeeuwsmuseum.nl
   - name: Zeeuws Museum Jaarverslag
@@ -31,8 +27,6 @@ sites:
     url: https://www.intk.com/en
   - name: Vanabbe Museum
     url: https://vanabbemuseum.nl
-  - name : Utrechtsciencepark
-    url: https://www.utrechtsciencepark.nl
   - name: New Zeeuws Museum
     url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
 
