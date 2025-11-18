@@ -207,10 +207,10 @@
     "url": "https://www.historiehuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historiehuis.nl.ico",
     "slug": "historiehuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1631,
@@ -219,6 +219,7 @@
     "timeMonth": 1797,
     "timeYear": 1648,
     "dailyMinutesDown": {
+      "2025-11-18": 1,
       "2025-01-22": 39,
       "2025-01-04": 25,
       "2024-12-01": 28
