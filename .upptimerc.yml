@@ -1,8 +1,6 @@
 owner: intk # Your GitHub username
 repo: intk-upptime # Your Github repository name
 sites:
-  - name: Museum Hilversum
-    url: https://www.museumhilversum.nl
   - name: Haags Historisch Museum
     url: https://www.haagshistorischmuseum.nl
   - name: Bonnefanten
