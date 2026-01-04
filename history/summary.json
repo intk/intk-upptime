@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1489,
-    "timeDay": 2883,
-    "timeWeek": 2449,
-    "timeMonth": 2156,
-    "timeYear": 1527,
+    "timeDay": 2382,
+    "timeWeek": 2481,
+    "timeMonth": 2218,
+    "timeYear": 1531,
     "dailyMinutesDown": {
       "2025-08-07": 215
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "96.32%",
-    "time": 2120,
-    "timeDay": 6282,
-    "timeWeek": 2184,
-    "timeMonth": 2391,
-    "timeYear": 2122,
+    "time": 2121,
+    "timeDay": 1634,
+    "timeWeek": 2245,
+    "timeMonth": 2109,
+    "timeYear": 2123,
     "dailyMinutesDown": {
       "2025-12-23": 106,
       "2025-12-20": 109,
@@ -141,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1502,
-    "timeDay": 2396,
-    "timeWeek": 2319,
-    "timeMonth": 2311,
-    "timeYear": 1562,
+    "time": 1506,
+    "timeDay": 2530,
+    "timeWeek": 2389,
+    "timeMonth": 2347,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2025-11-05": 226,
       "2025-08-07": 215
@@ -162,17 +162,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 1176,
-    "timeDay": 1739,
-    "timeWeek": 1658,
-    "timeMonth": 1445,
-    "timeYear": 1199,
+    "time": 1177,
+    "timeDay": 1993,
+    "timeWeek": 1736,
+    "timeMonth": 1485,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-12-04": 43,
       "2025-02-20": 23,
       "2025-02-03": 18,
-      "2025-01-22": 39,
-      "2025-01-04": 25
+      "2025-01-22": 39
     }
   },
   {
@@ -186,16 +185,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1670,
-    "timeDay": 2623,
-    "timeWeek": 2632,
-    "timeMonth": 2064,
-    "timeYear": 1697,
+    "time": 1671,
+    "timeDay": 2925,
+    "timeWeek": 2763,
+    "timeMonth": 2148,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2025-11-19": 549,
       "2025-11-18": 587,
-      "2025-01-22": 39,
-      "2025-01-04": 25
+      "2025-01-22": 39
     }
   },
   {
@@ -209,17 +207,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
-    "time": 1906,
-    "timeDay": 1646,
-    "timeWeek": 1476,
-    "timeMonth": 1740,
-    "timeYear": 1937,
+    "time": 1905,
+    "timeDay": 1833,
+    "timeWeek": 1524,
+    "timeMonth": 1746,
+    "timeYear": 1938,
     "dailyMinutesDown": {
       "2025-12-15": 32,
       "2025-12-04": 42,
       "2025-01-22": 38,
-      "2025-01-15": 15,
-      "2025-01-04": 25
+      "2025-01-15": 15
     }
   },
   {
@@ -233,14 +230,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 1557,
-    "timeWeek": 1405,
-    "timeMonth": 1334,
-    "timeYear": 1296,
-    "dailyMinutesDown": {
-      "2025-01-04": 24
-    }
+    "time": 1313,
+    "timeDay": 1483,
+    "timeWeek": 1493,
+    "timeMonth": 1364,
+    "timeYear": 1297,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeeuws Museum",
@@ -253,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 2200,
-    "timeDay": 2547,
-    "timeWeek": 2468,
-    "timeMonth": 2299,
-    "timeYear": 2261,
+    "time": 2199,
+    "timeDay": 2415,
+    "timeWeek": 2541,
+    "timeMonth": 2344,
+    "timeYear": 2264,
     "dailyMinutesDown": {
       "2025-12-08": 41,
       "2025-12-01": 51,
@@ -265,8 +260,7 @@
       "2025-11-04": 8,
       "2025-09-03": 18,
       "2025-08-06": 27,
-      "2025-01-05": 17,
-      "2025-01-04": 24
+      "2025-01-05": 17
     }
   },
   {
@@ -280,14 +274,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 1166,
-    "timeWeek": 1051,
-    "timeMonth": 968,
-    "timeYear": 712,
-    "dailyMinutesDown": {
-      "2025-01-04": 24
-    }
+    "time": 695,
+    "timeDay": 1097,
+    "timeWeek": 1056,
+    "timeMonth": 988,
+    "timeYear": 713,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Het Markiezenhof",
@@ -300,15 +292,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1028,
-    "timeDay": 1468,
-    "timeWeek": 1157,
-    "timeMonth": 1149,
-    "timeYear": 1048,
+    "time": 1029,
+    "timeDay": 1277,
+    "timeWeek": 1199,
+    "timeMonth": 1163,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-12-21": 21,
-      "2025-12-12": 15,
-      "2025-01-04": 24
+      "2025-12-12": 15
     }
   },
   {
@@ -322,10 +313,10 @@
     "uptimeWeek": "97.40%",
     "uptimeMonth": "95.11%",
     "uptimeYear": "93.93%",
-    "time": 963,
-    "timeDay": 895,
-    "timeWeek": 963,
-    "timeMonth": 962,
+    "time": 964,
+    "timeDay": 911,
+    "timeWeek": 1002,
+    "timeMonth": 976,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2026-01-03": 262,
@@ -416,14 +407,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 1948,
-    "timeWeek": 1555,
-    "timeMonth": 1470,
-    "timeYear": 857,
+    "time": 837,
+    "timeDay": 1736,
+    "timeWeek": 1616,
+    "timeMonth": 1493,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-01-06": 26,
-      "2025-01-04": 24
+      "2025-01-06": 26
     }
   }
 ]
