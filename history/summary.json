@@ -246,12 +246,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2203,
     "timeDay": 2094,
     "timeWeek": 2264,
-    "timeMonth": 2314,
+    "timeMonth": 2322,
     "timeYear": 2227,
     "dailyMinutesDown": {
       "2025-12-08": 41,
@@ -267,18 +267,20 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jaarverslag.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
+    "time": 693,
     "timeDay": 890,
     "timeWeek": 905,
     "timeMonth": 925,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 1
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -402,10 +404,10 @@
     "url": "https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/",
     "icon": "https://icons.duckduckgo.com/ip3/new.zeeuwsmuseum.nl.ico",
     "slug": "new-zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 841,
@@ -413,6 +415,8 @@
     "timeWeek": 1586,
     "timeMonth": 1476,
     "timeYear": 867,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 1
+    }
   }
 ]
