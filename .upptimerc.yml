@@ -7,25 +7,12 @@ sites:
     url: https://www.bonnefanten.nl
   - name: De Gevangenpoort
     url: https://www.gevangenpoort.nl
-  - name: Cuypershuis
-    url: https://www.cuypershuis.nl
-  - name: Historiehuis
-    url: https://www.historiehuis.nl
-  - name: Archief Roermond
-    url: https://www.archiefroermond.nl
   - name: Veenkoloniaal Museum
     url: https://www.veenkoloniaalmuseum.nl
-  - name: Zeeuws Museum
-    url: https://www.zeeuwsmuseum.nl
-  - name: Zeeuws Museum Jaarverslag
-    url: http://jaarverslag.zeeuwsmuseum.nl
   - name: Het Markiezenhof
     url: https://www.markiezenhof.nl
   - name: INTK
     url: https://www.intk.com/en
-  - name: New Zeeuws Museum
-    url: https://new.zeeuwsmuseum.nl/nl/over-het-museum/publicaties/
-
 user-agent: andreesg
 
 workflowSchedule:
