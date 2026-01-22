@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1526,
-    "timeDay": 1989,
-    "timeWeek": 2372,
-    "timeMonth": 2393,
-    "timeYear": 1582,
+    "time": 1528,
+    "timeDay": 2307,
+    "timeWeek": 2368,
+    "timeMonth": 2398,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2025-08-07": 215
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "98.04%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "96.23%",
-    "time": 2125,
-    "timeDay": 1324,
-    "timeWeek": 2822,
-    "timeMonth": 2388,
+    "time": 2124,
+    "timeDay": 1354,
+    "timeWeek": 2766,
+    "timeMonth": 2369,
     "timeYear": 2153,
     "dailyMinutesDown": {
       "2026-01-21": 84,
@@ -128,8 +128,7 @@
       "2025-01-28": 66,
       "2025-01-27": 183,
       "2025-01-25": 261,
-      "2025-01-24": 376,
-      "2025-01-22": 36
+      "2025-01-24": 376
     }
   },
   {
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1537,
-    "timeDay": 1789,
-    "timeWeek": 2207,
-    "timeMonth": 2301,
-    "timeYear": 1611,
+    "time": 1540,
+    "timeDay": 2071,
+    "timeWeek": 2191,
+    "timeMonth": 2299,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-11-05": 226,
       "2025-08-07": 215
@@ -164,11 +163,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1309,
-    "timeDay": 1262,
-    "timeWeek": 1362,
-    "timeMonth": 1342,
-    "timeYear": 1295,
+    "time": 1310,
+    "timeDay": 1514,
+    "timeWeek": 1371,
+    "timeMonth": 1345,
+    "timeYear": 1296,
     "dailyMinutesDown": {}
   },
   {
@@ -182,10 +181,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1029,
-    "timeDay": 808,
-    "timeWeek": 1023,
-    "timeMonth": 1094,
+    "time": 1028,
+    "timeDay": 955,
+    "timeWeek": 997,
+    "timeMonth": 1089,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-12-21": 21,
@@ -198,15 +197,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.70%",
     "uptimeMonth": "94.52%",
     "uptimeYear": "93.68%",
-    "time": 967,
-    "timeDay": 776,
-    "timeWeek": 993,
-    "timeMonth": 975,
+    "time": 966,
+    "timeDay": 902,
+    "timeWeek": 970,
+    "timeMonth": 972,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2026-01-17": 261,
@@ -286,8 +285,7 @@
       "2025-01-30": 262,
       "2025-01-29": 261,
       "2025-01-28": 260,
-      "2025-01-26": 44,
-      "2025-01-22": 46
+      "2025-01-26": 44
     }
   }
 ]
