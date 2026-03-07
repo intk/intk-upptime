@@ -136,9 +136,9 @@
     "url": "https://www.veenkoloniaalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.veenkoloniaalmuseum.nl.ico",
     "slug": "veenkoloniaal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +147,9 @@
     "timeWeek": 1432,
     "timeMonth": 1332,
     "timeYear": 1292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-07": 0
+    }
   },
   {
     "name": "Het Markiezenhof",
