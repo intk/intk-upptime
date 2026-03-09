@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1627,
-    "timeDay": 2602,
-    "timeWeek": 2586,
-    "timeMonth": 2484,
-    "timeYear": 1724,
+    "time": 1630,
+    "timeDay": 2746,
+    "timeWeek": 2625,
+    "timeMonth": 2483,
+    "timeYear": 1728,
     "dailyMinutesDown": {
       "2025-08-07": 215
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.56%",
-    "time": 2116,
-    "timeDay": 1826,
-    "timeWeek": 1645,
-    "timeMonth": 1573,
-    "timeYear": 2115,
+    "time": 2121,
+    "timeDay": 4368,
+    "timeWeek": 2005,
+    "timeMonth": 1668,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2026-01-25": 623,
       "2026-01-23": 384,
@@ -106,8 +106,7 @@
       "2025-03-18": 22,
       "2025-03-17": 19,
       "2025-03-15": 386,
-      "2025-03-14": 1,
-      "2025-03-09": 18
+      "2025-03-14": 1
     }
   },
   {
@@ -121,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1642,
-    "timeDay": 2660,
-    "timeWeek": 2471,
-    "timeMonth": 2527,
-    "timeYear": 1751,
+    "time": 1644,
+    "timeDay": 2537,
+    "timeWeek": 2481,
+    "timeMonth": 2511,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2025-11-05": 226,
       "2025-08-07": 215
@@ -138,15 +137,15 @@
     "slug": "veenkoloniaal-museum",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1303,
-    "timeDay": 1385,
-    "timeWeek": 1455,
-    "timeMonth": 1334,
-    "timeYear": 1293,
+    "timeDay": 1573,
+    "timeWeek": 1466,
+    "timeMonth": 1316,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2026-03-07": 22
     }
@@ -162,10 +161,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1042,
-    "timeDay": 1352,
-    "timeWeek": 1194,
-    "timeMonth": 1082,
+    "time": 1043,
+    "timeDay": 1217,
+    "timeWeek": 1197,
+    "timeMonth": 1081,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-12-21": 21,
@@ -179,15 +178,15 @@
     "slug": "intk",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "81.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.29%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "94.27%",
-    "time": 947,
-    "timeDay": 1151,
-    "timeWeek": 1068,
-    "timeMonth": 974,
-    "timeYear": 954,
+    "time": 948,
+    "timeDay": 1247,
+    "timeWeek": 1092,
+    "timeMonth": 978,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2026-03-07": 273,
       "2026-02-12": 292,
@@ -252,8 +251,7 @@
       "2025-04-27": 324,
       "2025-04-26": 316,
       "2025-04-04": 322,
-      "2025-04-03": 319,
-      "2025-03-09": 258
+      "2025-04-03": 319
     }
   }
 ]
