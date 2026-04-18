@@ -111,9 +111,9 @@
     "url": "https://www.veenkoloniaalmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.veenkoloniaalmuseum.nl.ico",
     "slug": "veenkoloniaal-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,7 @@
     "timeMonth": 1225,
     "timeYear": 1280,
     "dailyMinutesDown": {
+      "2026-04-18": 0,
       "2026-03-07": 22
     }
   },
