@@ -1,14 +1,8 @@
 owner: intk # Your GitHub username
 repo: intk-upptime # Your Github repository name
 sites:
-  - name: Haags Historisch Museum
-    url: https://www.haagshistorischmuseum.nl
   - name: Bonnefanten
     url: https://www.bonnefanten.nl
-  - name: De Gevangenpoort
-    url: https://www.gevangenpoort.nl
-  - name: Veenkoloniaal Museum
-    url: https://www.veenkoloniaalmuseum.nl
   - name: Het Markiezenhof
     url: https://www.markiezenhof.nl
   - name: INTK
