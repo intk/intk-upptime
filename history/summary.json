@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "98.54%",
-    "time": 2092,
-    "timeDay": 1722,
-    "timeWeek": 1653,
-    "timeMonth": 1779,
-    "timeYear": 2031,
+    "uptimeYear": "98.58%",
+    "time": 2091,
+    "timeDay": 1705,
+    "timeWeek": 1669,
+    "timeMonth": 1784,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2026-04-27": 510,
       "2026-04-26": 429,
@@ -52,8 +52,7 @@
       "2025-05-12": 38,
       "2025-05-11": 388,
       "2025-05-10": 149,
-      "2025-05-09": 20,
-      "2025-05-07": 409
+      "2025-05-09": 20
     }
   },
   {
@@ -67,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1053,
-    "timeDay": 1096,
-    "timeWeek": 1142,
-    "timeMonth": 1048,
+    "time": 1054,
+    "timeDay": 1310,
+    "timeWeek": 1163,
+    "timeMonth": 1052,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-12-21": 21,
@@ -83,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.59%",
+    "uptimeWeek": "88.25%",
     "uptimeMonth": "93.03%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.72%",
     "time": 950,
-    "timeDay": 867,
-    "timeWeek": 976,
-    "timeMonth": 926,
+    "timeDay": 892,
+    "timeWeek": 968,
+    "timeMonth": 922,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2026-05-04": 435,
@@ -156,8 +155,7 @@
       "2025-06-22": 323,
       "2025-06-13": 320,
       "2025-05-24": 322,
-      "2025-05-10": 306,
-      "2025-05-07": 1016
+      "2025-05-10": 306
     }
   }
 ]
