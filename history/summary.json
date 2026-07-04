@@ -63,16 +63,16 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "down",
-    "uptime": "98.28%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "96.24%",
-    "time": 949,
-    "timeDay": 1016,
-    "timeWeek": 919,
-    "timeMonth": 948,
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "69.47%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "96.17%",
+    "time": 948,
+    "timeDay": 929,
+    "timeWeek": 910,
+    "timeMonth": 945,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-07-15": 327,
@@ -132,7 +132,7 @@
       "2026-04-30": 422,
       "2026-05-02": 393,
       "2026-05-04": 435,
-      "2026-07-04": 67
+      "2026-07-04": 440
     }
   }
 ]
