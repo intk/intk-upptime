@@ -13,7 +13,7 @@
     "time": 2143,
     "timeDay": 2466,
     "timeWeek": 1883,
-    "timeMonth": 2313,
+    "timeMonth": 2329,
     "timeYear": 2154,
     "dailyMinutesDown": {
       "2025-07-23": 31,
@@ -50,7 +50,7 @@
     "time": 1131,
     "timeDay": 2220,
     "timeWeek": 1771,
-    "timeMonth": 1686,
+    "timeMonth": 1689,
     "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-12-12": 15,
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
     "status": "down",
-    "uptime": "98.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.25%",
+    "uptime": "98.28%",
+    "uptimeDay": "95.32%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "96.24%",
     "time": 949,
     "timeDay": 1016,
     "timeWeek": 919,
-    "timeMonth": 951,
+    "timeMonth": 948,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-07-15": 327,
@@ -132,7 +132,7 @@
       "2026-04-30": 422,
       "2026-05-02": 393,
       "2026-05-04": 435,
-      "2026-07-04": 0
+      "2026-07-04": 67
     }
   }
 ]
