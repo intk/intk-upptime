@@ -64,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
     "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "91.20%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "96.08%",
+    "uptime": "98.26%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "96.07%",
     "time": 949,
     "timeDay": 1089,
     "timeWeek": 937,
@@ -134,7 +134,7 @@
       "2026-05-04": 435,
       "2026-07-04": 440,
       "2026-07-08": 447,
-      "2026-07-11": 0
+      "2026-07-11": 56
     }
   }
 ]
