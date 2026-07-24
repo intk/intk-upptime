@@ -64,10 +64,10 @@
     "slug": "intk",
     "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "69.60%",
-    "uptimeWeek": "78.16%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "95.69%",
+    "uptimeDay": "69.34%",
+    "uptimeWeek": "78.08%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "95.68%",
     "time": 948,
     "timeDay": 883,
     "timeWeek": 947,
@@ -137,7 +137,7 @@
       "2026-07-21": 440,
       "2026-07-22": 438,
       "2026-07-23": 438,
-      "2026-07-24": 0
+      "2026-07-24": 59
     }
   }
 ]
