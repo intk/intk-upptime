@@ -4,17 +4,17 @@
     "url": "https://www.bonnefanten.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.bonnefanten.nl.ico",
     "slug": "bonnefanten",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
-    "time": 2146,
-    "timeDay": 1920,
-    "timeWeek": 1924,
-    "timeMonth": 1845,
-    "timeYear": 2170,
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.28%",
+    "time": 2147,
+    "timeDay": 1856,
+    "timeWeek": 1908,
+    "timeMonth": 1843,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2025-11-26": 326,
@@ -33,7 +33,7 @@
       "2026-04-20": 54,
       "2026-04-26": 429,
       "2026-04-27": 510,
-      "2026-07-25": 0
+      "2026-07-25": 49
     }
   },
   {
