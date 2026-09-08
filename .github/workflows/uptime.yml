@@ -47,7 +47,12 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
+      - name: Enforce overnight monitoring window
+        id: monitor_window
+        run: python3 .github/scripts/monitor-window.py
       - name: Check endpoint status
+        if: steps.monitor_window.outputs.allowed == 'true'
+        timeout-minutes: 30
         uses: upptime/uptime-monitor@v1.44.0
         with:
           command: "update"

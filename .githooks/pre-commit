@@ -1,0 +1,3 @@
+#!/bin/sh
+set -eu
+python3 .github/scripts/maintain-workflow-guards.py --stage

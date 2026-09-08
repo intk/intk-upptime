@@ -47,6 +47,8 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
+      - name: Preserve monitoring guards during template updates
+        run: git config --local core.hooksPath .githooks
       - name: Update template
         uses: upptime/uptime-monitor@master
         with:

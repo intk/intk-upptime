@@ -1,0 +1,22 @@
+name: Monitoring guard tests
+on:
+  push:
+    paths:
+      - .github/scripts/**
+      - .github/workflows/**
+      - .githooks/**
+  pull_request:
+    paths:
+      - .github/scripts/**
+      - .github/workflows/**
+      - .githooks/**
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - run: python3 .github/scripts/test-monitoring.py
+      - run: python3 .github/scripts/maintain-workflow-guards.py --check
