@@ -87,14 +87,15 @@ class MonitoringTests(unittest.TestCase):
             self.assertFalse(window.can_check(instant.astimezone(timezone(timedelta(hours=offset)))))
 
     def test_template_regeneration_retains_upstream_changes_and_guard(self):
-        for name in guards.MONITORS.keys() | guards.UPDATERS:
+        for name in guards.WORKFLOWS:
             with self.subTest(workflow=name):
                 original = (guards.ROOT / ".github/workflows" / name).read_text()
-                generated = original.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, "")
+                generated = original.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, "").replace(guards.QUEUE, "")
                 generated = re.sub(r"@v\d+\.\d+\.\d+", "@v99.0.0", generated)
                 guarded = guards.patch_workflow(name, generated)
                 self.assertEqual(guards.patch_workflow(name, guarded), guarded)
                 self.assertIn("@v99.0.0" if "@v99.0.0" in generated else "@master", guarded)
+                self.assertEqual(guarded.count(guards.QUEUE), 1)
                 if name in guards.MONITORS:
                     self.assertEqual(guarded.count(guards.GATE), 1)
                     self.assertEqual(guarded.count(guards.CONDITION), 1)
@@ -102,12 +103,27 @@ class MonitoringTests(unittest.TestCase):
                     self.assertEqual(guarded.count(guards.HOOK), 1)
                 if name in {"uptime.yml", "response-time.yml"}:
                     self.assertEqual(guarded.count(guards.SCHEDULE_TIMEZONE), 1)
-                self.assertEqual(guarded.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, ""), generated)
+                self.assertEqual(guarded.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, "").replace(guards.QUEUE, ""), generated)
+
+    def test_all_writers_preserve_pending_checks_in_the_same_queue(self):
+        groups = set()
+        for name in guards.WORKFLOWS:
+            source = (guards.ROOT / ".github/workflows" / name).read_text()
+            self.assertEqual(source.count(guards.QUEUE), 1)
+            groups.add(re.search(r"^  group: (.*)$", source, re.MULTILINE)[1])
+            self.assertIn("  cancel-in-progress: false\n", source)
+        self.assertEqual(len(groups), 1)
+
+    def test_cancelling_queue_or_changed_layout_is_rejected(self):
+        source = (guards.ROOT / ".github/workflows/graphs.yml").read_text()
+        for broken in [source.replace("cancel-in-progress: false", "cancel-in-progress: true"), source.replace("concurrency:", "renamed:")]:
+            with self.assertRaises(ValueError):
+                guards.patch_workflow("graphs.yml", broken)
 
     def test_legacy_guard_is_migrated(self):
         for name in guards.MONITORS:
             current = (guards.ROOT / ".github/workflows" / name).read_text()
-            old = current.replace(guards.CONDITION, guards.LEGACY_CONDITION).replace(guards.SCHEDULE_TIMEZONE, "")
+            old = current.replace(guards.CONDITION, guards.LEGACY_CONDITION).replace(guards.SCHEDULE_TIMEZONE, "").replace(guards.QUEUE, "")
             self.assertEqual(guards.patch_workflow(name, old), current)
 
     def test_schedule_matches_config_and_avoids_peak_minutes(self):
@@ -130,9 +146,9 @@ class MonitoringTests(unittest.TestCase):
             shutil.copytree(guards.ROOT / ".github/scripts", root / ".github/scripts")
             shutil.copytree(guards.ROOT / ".githooks", root / ".githooks")
             (root / ".github/workflows").mkdir()
-            for name in guards.MONITORS.keys() | guards.UPDATERS:
+            for name in guards.WORKFLOWS:
                 source = (guards.ROOT / ".github/workflows" / name).read_text()
-                generated = source.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, "")
+                generated = source.replace(guards.GATE, "").replace(guards.CONDITION, "").replace(guards.HOOK, "").replace(guards.SCHEDULE_TIMEZONE, "").replace(guards.QUEUE, "")
                 (root / ".github/workflows" / name).write_text(generated)
 
             def git(*args, check=True):
@@ -144,6 +160,8 @@ class MonitoringTests(unittest.TestCase):
             git("config", "user.email", "test@example.invalid")
             git("add", ".")
             git("-c", "commit.gpgsign=false", "commit", "-qm", "Simulated template update")
+            for name in guards.WORKFLOWS:
+                self.assertIn(guards.QUEUE, git("show", f"HEAD:.github/workflows/{name}").stdout)
             for name in guards.MONITORS:
                 committed = git("show", f"HEAD:.github/workflows/{name}").stdout
                 self.assertIn(guards.GATE, committed)
