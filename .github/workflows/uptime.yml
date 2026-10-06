@@ -17,7 +17,8 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/5 0,6-23 * * *"
+    - cron: "2-59/5 6-23 * * *"
+      timezone: "Europe/Amsterdam"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
@@ -52,7 +53,7 @@ jobs:
         run: python3 .github/scripts/monitor-window.py
       - name: Check endpoint status
         if: steps.monitor_window.outputs.allowed == 'true'
-        timeout-minutes: 30
+        timeout-minutes: ${{ fromJSON(steps.monitor_window.outputs.timeout_minutes) }}
         uses: upptime/uptime-monitor@v1.44.1
         with:
           command: "update"

@@ -21,8 +21,12 @@ GATE = """      - name: Enforce overnight monitoring window
         run: python3 .github/scripts/monitor-window.py
 """
 CONDITION = """        if: steps.monitor_window.outputs.allowed == 'true'
+        timeout-minutes: ${{ fromJSON(steps.monitor_window.outputs.timeout_minutes) }}
+"""
+LEGACY_CONDITION = """        if: steps.monitor_window.outputs.allowed == 'true'
         timeout-minutes: 30
 """
+SCHEDULE_TIMEZONE = '      timezone: "Europe/Amsterdam"\n'
 HOOK = """      - name: Preserve monitoring guards during template updates
         run: git config --local core.hooksPath .githooks
 """
@@ -31,6 +35,17 @@ HOOK = """      - name: Preserve monitoring guards during template updates
 def patch_workflow(name, text):
     # Normalize our additions so rerunning this is idempotent.
     text = text.replace(GATE, "").replace(CONDITION, "").replace(HOOK, "")
+    text = text.replace(LEGACY_CONDITION, "")
+    if name in {"uptime.yml", "response-time.yml"}:
+        text = re.sub(r"^      timezone:.*\n", "", text, flags=re.MULTILINE)
+        text, count = re.subn(
+            r"(^    - cron: [^\n]+\n)",
+            lambda match: match[1] + SCHEDULE_TIMEZONE,
+            text,
+            flags=re.MULTILINE,
+        )
+        if count != 1:
+            raise ValueError(f"{name}: expected exactly one monitoring schedule")
     if name in MONITORS:
         step = f"      - name: {MONITORS[name]}\n"
         if text.count(step) != 1:

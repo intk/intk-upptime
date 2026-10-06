@@ -2,11 +2,13 @@ name: Monitoring guard tests
 on:
   push:
     paths:
+      - .upptimerc.yml
       - .github/scripts/**
       - .github/workflows/**
       - .githooks/**
   pull_request:
     paths:
+      - .upptimerc.yml
       - .github/scripts/**
       - .github/workflows/**
       - .githooks/**
