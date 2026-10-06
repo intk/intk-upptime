@@ -10,13 +10,15 @@ sites:
 user-agent: andreesg
 
 workflowSchedule:
+  # uptime and responseTime use Europe/Amsterdam. The template guard restores
+  # their timezone after regeneration; the runtime guard handles delayed runs.
   graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "17 12 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 0,6-23 * * *"
+  uptime: "2-59/5 6-23 * * *"
 
 status-website:
   baseUrl: /intk-upptime
