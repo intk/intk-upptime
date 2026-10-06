@@ -21,6 +21,12 @@ GitHub's native cron is best effort: events can be delayed or dropped. On
 Amsterdam time, although each run finished in under 30 seconds. Moving the cron
 offset reduces contention but does not guarantee five-minute monitoring.
 
+All eight Upptime workflows share a concurrency group because they write to the
+same repository. They use `queue: max` so maintenance workflows cannot replace a
+pending uptime check. GitHub can retain up to 100 pending runs; a check may still
+wait for the current writer to finish. This fixes queue cancellations separately
+from the cron dispatch delays described above.
+
 For dependable triggering, configure an always-on external scheduler with:
 
 - Schedule: `*/5 6-23 * * *`, timezone `Europe/Amsterdam`.
@@ -41,7 +47,7 @@ check the completed `Check endpoint status` step, not only the dispatch response
 ## Template updates and verification
 
 `.upptimerc.yml` owns the cron expressions. The pre-commit hook used by Setup CI and
-Update Template CI restores the timezone, runtime gate, and timeout expression on
+Update Template CI restores the timezone, runtime gate, timeout expression, and queue on
 regenerated workflows. Keep the hook when updating Upptime.
 
 Run `python3 .github/scripts/test-monitoring.py` and

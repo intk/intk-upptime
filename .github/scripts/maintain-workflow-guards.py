@@ -16,6 +16,8 @@ MONITORS = {
     "setup.yml": "Update response time",
 }
 UPDATERS = {"setup.yml", "update-template.yml"}
+WORKFLOWS = MONITORS.keys() | UPDATERS | {"graphs.yml", "site.yml", "summary.yml", "updates.yml"}
+QUEUE = "  queue: max\n"
 GATE = """      - name: Enforce overnight monitoring window
         id: monitor_window
         run: python3 .github/scripts/monitor-window.py
@@ -36,6 +38,18 @@ def patch_workflow(name, text):
     # Normalize our additions so rerunning this is idempotent.
     text = text.replace(GATE, "").replace(CONDITION, "").replace(HOOK, "")
     text = text.replace(LEGACY_CONDITION, "")
+    if name in WORKFLOWS:
+        # All Upptime writers share one lock to prevent conflicting git pushes.
+        # Keep pending checks when another monitor or maintenance run arrives.
+        text = re.sub(r"^  queue: (?:single|max)\n", "", text, flags=re.MULTILINE)
+        text, count = re.subn(
+            r"(^concurrency:\n  group: [^\n]+\n  cancel-in-progress: false\n)",
+            lambda match: match[1] + QUEUE,
+            text,
+            flags=re.MULTILINE,
+        )
+        if count != 1:
+            raise ValueError(f"{name}: expected one shared, non-cancelling concurrency group")
     if name in {"uptime.yml", "response-time.yml"}:
         text = re.sub(r"^      timezone:.*\n", "", text, flags=re.MULTILINE)
         text, count = re.subn(
@@ -63,7 +77,7 @@ def patch_workflow(name, text):
 
 
 def main():
-    paths = [ROOT / ".github/workflows" / name for name in sorted(MONITORS.keys() | UPDATERS)]
+    paths = [ROOT / ".github/workflows" / name for name in sorted(WORKFLOWS)]
     # Validate every workflow before modifying any of them.
     updates = [(path, patch_workflow(path.name, path.read_text())) for path in paths]
     for path, text in updates:
