@@ -6,7 +6,7 @@
 # Your changes will be overwritten when the Upptime template updates (by default, weekly)
 # Instead, change .upptimerc.yml configuration and the workflows will be generated accordingly.
 #
-# 🔼 Upptime @v1.45.0
+# 🔼 Upptime @v1.45.1
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -55,7 +55,7 @@ jobs:
       - name: Update response time
         if: steps.monitor_window.outputs.allowed == 'true'
         timeout-minutes: ${{ fromJSON(steps.monitor_window.outputs.timeout_minutes) }}
-        uses: upptime/uptime-monitor@v1.45.0
+        uses: upptime/uptime-monitor@v1.45.1
         with:
           command: "response-time"
         env:
